@@ -1,568 +1,568 @@
-City,Cloudiness,Country,Humidity,Latitude,Longitude,Max Temp,Wind Speed
-Rikitea,80,PF,99,-23.12,-134.97,79.29,13.6
-Albany,75,US,48,42.65,-73.75,17.96,3.49
-Pevek,0,RU,71,69.7,170.27,-23.68,4.72
-Havre-Saint-Pierre,90,CA,72,50.23,-63.6,17.6,11.41
-Saint-Philippe,1,CA,65,45.36,-73.48,5.0,5.82
-Axim,32,GH,97,4.87,-2.24,83.97,9.86
-Busselton,0,AU,86,-33.64,115.35,72.36,18.07
-Ust-Maya,48,RU,44,60.42,134.54,-27.91,3.38
-Port Elizabeth,90,US,51,39.31,-74.98,33.08,3.36
-Saskylakh,0,RU,0,71.97,114.09,-55.9,4.27
-Traverse City,90,US,74,44.76,-85.62,26.42,8.05
-Mataura,76,NZ,86,-46.19,168.86,59.49,8.75
-Saint George,20,GR,107,39.45,22.34,33.8,4.7
-Tuktoyaktuk,20,CA,73,69.44,-133.03,-29.21,9.17
-Punta Arenas,75,CL,65,-53.16,-70.91,46.4,25.28
-Souillac,90,FR,93,45.6,-0.6,48.2,5.82
-Ushuaia,75,AR,75,-54.81,-68.31,42.8,32.21
-Namibe,0,AO,100,-15.19,12.15,72.63,8.75
-Northam,92,GB,87,51.04,-4.21,50.0,19.46
-Nara,75,JP,61,34.68,135.8,48.2,2.24
-Mandali,92,IQ,69,33.75,45.55,43.92,7.4
-Bredasdorp,24,ZA,67,-34.53,20.04,62.6,8.05
-Terme,90,TR,81,41.21,36.97,46.4,12.75
-Xuddur,0,SO,75,4.12,43.89,64.71,12.1
-New Norfolk,0,AU,22,-42.78,147.06,69.8,13.87
-Georgetown,75,GY,83,6.8,-58.16,78.8,13.87
-Barrow,88,AR,97,-38.31,-60.23,63.54,10.13
-Praia da Vitoria,20,PT,77,38.73,-27.07,60.8,22.32
-Udachnyy,24,RU,0,66.42,112.4,-32.32,2.48
-Lianzhou,92,CN,97,24.79,112.38,48.6,3.04
-Ust-Koksa,44,RU,68,50.27,85.62,-1.54,1.81
-Ilulissat,40,GL,43,69.22,-51.1,-7.61,4.7
-Khatanga,64,RU,49,71.98,102.47,-29.53,7.11
-Ephrata,1,US,88,47.32,-119.55,33.08,3.36
-Guerrero Negro,64,MX,95,27.97,-114.04,57.42,4.05
-Imeni Poliny Osipenko,64,RU,73,52.42,136.49,-10.81,3.83
-Teahupoo,75,PF,88,-17.83,-149.27,78.8,18.34
-Chuy,88,UY,90,-33.69,-53.46,70.2,12.03
-West Odessa,1,US,69,31.84,-102.48,44.96,9.17
-Saldanha,0,PT,79,41.42,-6.55,18.81,3.09
-Cabra,0,ES,86,37.47,-4.43,30.2,2.75
-Hilo,40,US,64,19.71,-155.08,77.0,12.75
-Chinhoyi,24,ZW,95,-17.36,30.19,61.92,3.04
-Vaini,0,IN,77,15.34,74.49,62.6,2.24
-Dikson,76,RU,100,73.51,80.55,-14.86,31.9
-Ponta do Sol,32,BR,88,-20.63,-46.0,67.23,3.38
-Marsa Matruh,0,EG,81,31.35,27.25,48.2,18.34
-Carnarvon,0,ZA,94,-30.97,22.13,50.31,6.22
-Ponta Delgada,40,PT,77,37.73,-25.67,59.0,12.75
-San Cristobal,90,EC,100,-0.39,-78.55,55.4,5.82
-Mar del Plata,0,AR,48,-46.43,-67.52,55.98,5.99
-Mahebourg,40,MU,78,-20.41,57.7,78.8,11.41
-Alghero,75,IT,66,40.56,8.32,51.8,9.17
-Birin,0,SY,100,35.01,36.67,29.07,2.08
-Bluff,0,AU,42,-23.58,149.07,91.98,10.92
-Shamary,88,RU,87,57.34,58.22,27.99,13.6
-Qaanaaq,0,GL,66,77.48,-69.36,-22.87,10.92
-Karwar,0,IN,68,14.8,74.13,67.59,2.48
-Mandurah,0,AU,41,-32.55,115.7,78.8,14.99
-Olenegorsk,88,RU,90,68.14,33.28,26.01,6.62
-Hobart,0,AU,22,-42.88,147.33,69.8,13.87
-Tevriz,80,RU,82,57.51,72.4,6.12,9.86
-Cape Town,40,ZA,93,-33.93,18.42,62.6,8.05
-Cascais,0,PT,70,38.7,-9.42,46.4,4.7
-Rosarito,40,CO,78,4.91,-75.23,71.6,3.36
-Bonthe,44,SL,83,7.53,-12.5,79.92,5.55
-Upernavik,32,GL,100,72.79,-56.15,-5.77,9.35
-Sao Joao da Barra,48,BR,96,-21.64,-41.05,79.38,14.67
-Hofn,92,IS,100,64.25,-15.21,36.54,19.64
-El Alto,75,BO,87,-16.5,-68.19,42.8,6.93
-Trapani,20,IT,66,38.02,12.54,53.6,12.75
-Castro,75,CL,87,-42.48,-73.76,44.6,3.36
-Cherskiy,44,RU,52,68.75,161.3,-17.65,1.81
-Goderich,24,CA,88,43.74,-81.71,14.85,11.14
-Sioux Lookout,90,CA,85,50.1,-91.92,17.6,5.82
-Afrikanda,68,RU,85,67.44,32.78,25.92,7.56
-Sarab,0,IR,65,38.61,44.99,7.29,2.71
-Tiksi,24,RU,48,71.64,128.87,-29.44,3.83
-Avarua,75,CK,70,-21.21,-159.78,86.0,11.41
-Huarmey,0,PE,91,-10.07,-78.15,62.19,4.21
-Bambous Virieux,40,MU,78,-20.34,57.76,78.8,11.41
-San Patricio,8,PY,95,-26.98,-56.83,74.88,3.87
-Baykit,0,RU,0,61.68,96.39,-35.47,3.04
-Airai,12,TL,51,-8.93,125.41,87.93,1.97
-Kodiak,90,US,92,39.95,-94.76,32.0,14.99
-Whitehorse,90,CA,83,60.72,-135.06,-5.81,2.48
-Arraial do Cabo,0,BR,90,-22.97,-42.02,76.5,13.27
-Hermanus,32,ZA,81,-34.42,19.24,57.69,9.42
-Umm Lajj,76,SA,100,25.02,37.27,69.39,8.23
-Pitimbu,20,BR,94,-7.47,-34.81,75.2,6.93
-Mitchell,90,US,87,43.71,-98.03,23.0,4.7
-Puerto Ayora,20,EC,99,-0.74,-90.35,76.68,10.54
-Sliven,5,BG,85,42.68,26.32,24.8,4.83
-Kapaa,1,US,66,22.08,-159.32,78.98,8.05
-Omsukchan,56,RU,77,62.53,155.8,-9.19,3.31
-Hit,92,IQ,91,33.64,42.83,40.32,8.41
-Vila Franca do Campo,40,PT,77,37.72,-25.43,59.0,12.75
-Zapolyarnyy,68,RU,92,69.43,30.82,28.4,6.93
-Minab,0,IR,68,27.15,57.07,53.6,4.7
-Hithadhoo,8,MV,100,-0.6,73.08,81.36,5.21
-Sitka,20,US,91,37.17,-99.65,28.26,9.31
-Mandalgovi,8,MN,57,45.76,106.27,2.88,9.75
-Sao Filipe,20,CV,100,14.9,-24.5,71.28,9.08
-Slave Lake,90,CA,79,55.28,-114.77,23.0,2.24
-Inta,80,RU,76,66.04,60.13,12.96,3.98
-Butaritari,56,KI,100,3.07,172.79,82.98,7.56
-Aklavik,20,CA,66,68.22,-135.01,-31.01,9.35
-Namatanai,88,PG,100,-3.66,152.44,82.89,17.47
-Sorong,12,ID,100,-0.86,131.25,82.53,7.85
-Dongsheng,56,CN,99,29.72,112.52,45.09,4.38
-Beohari,76,IN,79,24.05,81.38,59.58,3.38
-Tasiilaq,36,GL,67,65.61,-37.64,17.6,6.93
-East London,88,ZA,99,-33.02,27.91,72.81,7.07
-Port Alfred,32,ZA,92,-33.59,26.89,67.41,7.74
-Kirensk,56,RU,72,57.78,108.12,-2.89,3.38
-High Level,20,CA,84,58.52,-117.13,6.8,9.17
-Ribeira Grande,32,PT,97,38.52,-28.7,62.01,21.39
-Sterling,90,US,100,39.0,-77.4,31.1,4.7
-Fort Nelson,75,CA,84,58.81,-122.69,-0.41,4.7
-Bandarbeyla,64,SO,100,9.49,50.81,76.95,19.42
-Sabang,92,PH,87,13.72,123.58,79.56,14.34
-Prainha,56,BR,86,-1.8,-53.48,77.31,3.49
-Narsaq,80,GL,84,60.91,-46.05,32.0,8.05
-Araouane,32,ML,33,18.9,-3.53,50.94,11.36
-Jamestown,0,AU,25,-33.21,138.6,89.46,9.24
-Shahrud,0,IR,60,36.42,54.97,13.14,2.71
-Basco,90,US,92,40.33,-91.2,30.2,10.29
-Port Blair,0,IN,98,11.67,92.75,83.25,12.77
-Sabzevar,0,IR,68,36.21,57.68,19.08,2.26
-Tomatlan,24,MX,89,19.93,-105.25,68.85,2.3
-Nabire,48,ID,92,-3.36,135.5,77.4,2.59
-Leningradskiy,20,RU,100,69.38,178.42,-17.65,8.63
-Ayolas,0,PY,95,-27.39,-56.84,74.16,8.52
-Ostrovnoy,64,RU,90,68.05,39.51,20.34,10.76
-Deputatskiy,48,RU,0,69.3,139.9,-31.69,2.82
-Ovsyanka,44,RU,64,53.58,126.91,-3.97,3.27
-Iskateley,76,RU,84,67.68,53.15,15.21,17.47
-Luderitz,12,NA,90,-26.65,15.16,59.85,4.76
-Pisco,0,PE,88,-13.71,-76.2,71.6,19.46
-Soe,64,EE,92,57.91,26.05,28.4,9.17
-Tabas,0,IR,45,33.6,56.92,32.0,2.24
-Trat,20,TH,100,12.25,102.51,77.0,1.12
-Clyde River,1,CA,73,70.47,-68.59,-34.61,4.7
-Provideniya,8,RU,100,64.42,-173.23,-9.91,20.2
-Gat,0,SN,83,14.69,-16.54,69.8,12.75
-Constitucion,5,MX,33,23.99,-104.67,57.2,10.29
-Bihoro,75,JP,62,43.75,144.14,23.0,3.36
-Tuatapere,8,NZ,86,-46.13,167.69,58.68,10.87
-Lakeside,5,US,76,32.86,-116.92,60.08,2.26
-Shasta Lake,1,US,58,40.68,-122.36,53.96,4.7
-Batemans Bay,76,AU,86,-35.71,150.18,71.46,4.72
-Concarneau,90,FR,93,47.88,-3.92,50.0,12.75
-Lavrentiya,8,RU,92,65.58,-170.99,-11.08,28.7
-Los Llanos de Aridane,0,ES,72,28.66,-17.92,59.0,8.05
-Lata,92,IN,100,30.78,78.62,32.04,1.59
-Rivadavia,0,AR,71,-31.53,-68.59,64.08,11.14
-Comodoro Rivadavia,0,AR,31,-45.87,-67.48,64.4,4.7
-Inhambane,24,MZ,98,-23.87,35.38,80.46,5.39
-Bonavista,76,CA,100,48.65,-53.11,25.38,10.36
-Kahului,75,US,62,20.89,-156.47,80.06,12.75
-Dunedin,64,NZ,94,-45.87,170.5,59.76,4.72
-Chokurdakh,80,RU,37,70.62,147.9,-24.22,8.23
-Solnechnyy,36,RU,62,50.72,136.64,-7.57,3.31
-Mount Gambier,0,AU,47,-37.83,140.78,77.0,16.11
-Takoradi,36,GH,100,4.89,-1.75,81.9,7.9
-Bassano,0,CA,60,50.79,-112.47,8.46,2.82
-Evensk,0,RU,100,61.92,159.24,2.97,6.78
-Atuona,68,PF,100,-9.8,-139.03,80.19,15.84
-Hambantota,90,LK,100,6.12,81.12,75.2,6.93
-Lorengau,76,PG,99,-2.02,147.27,83.43,13.44
-Laguna,5,MX,59,27.52,-110.01,62.6,3.36
-Chifeng,0,CN,34,42.27,118.96,24.03,3.83
-Praya,40,ID,74,-8.71,116.27,86.0,3.36
-Vardo,90,US,84,39.62,-77.74,30.2,4.7
-Jucuaran,12,SV,100,13.25,-88.25,76.32,3.71
-Te Anau,32,NZ,48,-45.41,167.72,61.74,7.34
-Saint-Georges,0,CA,56,46.12,-70.67,2.61,5.77
-Lebu,0,ET,53,8.96,38.73,30.06,2.98
-Pangnirtung,8,CA,58,66.15,-65.72,-32.86,3.04
-Hasaki,20,JP,57,35.73,140.83,48.2,14.99
-Poum,0,MK,55,41.28,20.71,0.72,1.36
-Ouahigouya,0,BF,27,13.58,-2.42,63.0,10.25
-Yerbogachen,8,RU,55,61.28,108.01,-19.27,4.5
-Yanam,20,IN,94,16.73,82.22,68.0,4.7
-Saint-Augustin,75,FR,100,44.83,-0.61,50.0,6.93
-Mayor Pablo Lagerenza,20,PY,87,-19.93,-60.77,76.5,6.73
-Alice Springs,0,AU,13,-23.7,133.88,104.0,17.22
-Lokachi,92,UA,94,50.74,24.65,33.21,12.55
-Coyula,92,MX,100,20.93,-98.48,63.0,2.82
-Preobrazheniye,0,RU,41,42.9,133.91,27.18,2.75
-Flinders,32,AU,75,-34.58,150.85,76.59,6.11
-Piraju,32,BR,86,-23.19,-49.38,71.82,9.75
-Longyearbyen,20,NO,55,78.22,15.63,6.8,14.99
-Cairns,90,AU,62,-16.92,145.77,86.0,16.11
-Howard Springs,75,AU,74,-12.5,131.05,86.0,4.7
-Mao,20,DO,100,19.55,-71.08,71.6,3.36
-Frumusita,20,RO,80,45.67,28.07,8.37,2.82
-Konstantinovka,68,MD,92,47.99,28.86,22.68,6.11
-Vanimo,48,PG,100,-2.67,141.3,82.8,17.13
-Eirunepe,44,BR,96,-6.66,-69.87,72.81,2.08
-Port Hardy,90,CA,81,50.7,-127.42,48.2,21.92
-Atar,0,MR,27,20.52,-13.05,51.93,7.63
-Ormond Beach,40,US,96,29.29,-81.06,62.06,9.42
-Cidreira,64,BR,90,-30.17,-50.22,73.62,13.94
-Cap Malheureux,40,MU,78,-19.98,57.61,78.8,11.41
-Isakly,80,RU,92,54.13,51.53,24.48,10.13
-Naze,12,NG,94,5.43,7.07,78.8,6.62
-Inongo,32,CD,98,-1.93,18.29,72.81,3.53
-Calamar,64,CO,95,1.96,-72.65,72.54,2.19
-Hay River,90,CA,76,60.82,-115.79,-4.01,11.41
-Norman Wells,40,CA,73,65.28,-126.83,-34.61,5.82
-Belmonte,0,PT,81,40.36,-7.35,28.17,5.88
-Cockburn Town,88,TC,100,21.46,-71.14,75.15,17.81
-Kavieng,48,PG,100,-2.57,150.8,82.98,11.77
-Buala,24,SB,78,-8.15,159.59,87.12,9.42
-Omboue,92,GA,100,-1.57,9.26,75.24,8.86
-Lompoc,1,US,91,34.64,-120.46,57.02,3.36
-Nanortalik,92,GL,94,60.14,-45.24,30.06,20.38
-Bara,8,NG,39,10.41,10.6,63.72,8.34
-Lagoa,0,PT,61,37.14,-8.45,46.4,9.17
-Mangai,56,CD,92,-4.07,19.59,73.62,2.98
-Kathmandu,20,NP,93,27.71,85.32,39.2,3.04
-Presidente Epitacio,36,BR,85,-21.76,-52.12,73.89,2.53
-Port-Gentil,92,GA,100,-0.72,8.78,74.79,6.85
-Katsuura,40,JP,66,33.93,134.5,48.2,11.41
-Bethel,20,US,82,60.79,-161.76,-4.01,19.46
-Vitim,48,RU,56,59.44,112.57,-6.13,2.53
-Curvelo,68,BR,92,-18.76,-44.43,68.22,3.71
-Thompson,90,CA,85,55.74,-97.86,14.0,11.41
-Yellowknife,20,CA,69,62.45,-114.38,-11.21,10.29
-Kloulklubed,75,PW,78,7.04,134.26,82.4,16.11
-Geraldton,5,CA,69,49.72,-86.95,-13.01,3.2
-Gizo,0,IL,70,31.8,34.94,44.6,2.24
-Vostok,0,RU,64,46.45,135.83,16.29,3.04
-Atambua,0,ID,88,-9.11,124.89,86.22,7.4
-Zhigansk,32,RU,54,66.77,123.37,-18.46,10.13
-Tura,0,IN,77,25.52,90.21,61.02,3.49
-Angoram,44,PG,60,-4.06,144.07,90.99,3.49
-Quatre Cocos,40,MU,78,-20.21,57.76,78.8,11.41
-El Bagre,68,CO,68,7.6,-74.8,80.91,2.59
-Wausau,90,US,85,44.96,-89.63,26.06,4.7
-Beberibe,40,BR,83,-4.18,-38.13,80.6,3.36
-Maniitsoq,44,GL,100,65.42,-52.9,6.84,5.84
-Verkhneyarkeyevo,88,RU,89,55.45,54.3,30.33,12.37
-Hirara,75,JP,68,24.8,125.28,71.6,12.75
-Ambon,75,FR,100,47.55,-2.56,48.2,3.36
-Tokat,75,TR,85,40.33,36.55,24.8,19.46
-Kampot,20,KH,66,10.62,104.18,84.2,8.05
-Yangambi,8,CD,97,0.77,24.47,72.18,4.72
-Caconda,24,AO,63,-13.73,15.06,61.74,7.4
-Ballina,92,IE,94,54.11,-9.15,48.06,19.15
-Mkushi,92,ZM,98,-13.61,29.4,62.01,3.76
-Russell,75,AR,57,-33.01,-68.8,75.2,17.22
-Sol-Iletsk,88,RU,92,51.16,55.0,29.7,14.38
-Uusikaupunki,56,FI,100,60.8,21.41,21.2,4.7
-Lake Havasu City,90,US,54,34.47,-114.34,57.92,11.41
-Zhenhai,90,CN,100,29.95,121.71,42.8,6.71
-Igarka,76,RU,36,67.47,86.57,-24.13,26.87
-Hutchinson,90,US,96,38.06,-97.93,30.02,18.34
-Moree,0,AU,20,-29.46,149.84,96.8,9.17
-Bangangte,12,CM,84,5.14,10.52,61.02,4.72
-Banda Aceh,24,ID,75,5.56,95.32,83.16,5.61
-Bontang,8,ID,90,0.12,117.47,84.78,8.52
-Balingasay,0,PH,92,16.36,119.86,81.18,5.5
-Gaya,0,IN,87,24.8,85.01,50.0,10.29
-Tuni,75,BO,87,-16.67,-68.14,42.8,6.93
-Ucluelet,90,CA,93,48.94,-125.55,48.2,10.29
-Nishihara,20,JP,45,35.74,139.53,46.4,8.05
-Chingola,92,ZM,99,-12.55,27.86,62.82,4.27
-Shunyi,0,CN,21,40.13,116.65,37.4,6.71
-Port Augusta,0,AU,41,-32.49,137.76,78.8,19.46
-Sisimiut,68,GL,100,66.94,-53.67,-14.05,1.07
-Petropavlovsk-Kamchatskiy,76,RU,50,53.05,158.65,30.2,6.71
-Coahuayana,12,MX,78,18.62,-100.35,62.46,2.48
-Maraa,88,BR,96,-1.83,-65.37,74.79,2.26
-Ayr,75,GB,100,55.46,-4.63,50.0,23.04
-Niltepec,36,MX,81,16.57,-94.62,69.48,9.35
-Saint-Ambroise,90,FR,93,47.25,-0.65,48.2,8.05
-Henties Bay,48,NA,100,-22.12,14.28,59.4,0.25
-Esperance,20,TT,78,10.24,-61.45,75.2,5.99
-Ossora,0,RU,90,59.24,163.07,3.78,4.99
-Mporokoso,80,ZM,93,-9.37,30.12,62.19,4.72
-La Ronge,75,CA,79,55.1,-105.3,19.4,5.82
-Camacha,75,PT,63,33.08,-16.33,62.6,19.46
-Linxia,44,CN,41,35.6,103.21,20.79,3.53
-Dandong,32,CN,67,40.12,124.37,31.05,3.2
-Adrar,0,DZ,44,27.87,-0.29,39.2,8.05
-Maragogi,92,BR,100,-9.01,-35.22,73.89,5.1
-Marsh Harbour,24,BS,100,26.54,-77.06,74.34,14.61
-Elizabeth City,90,US,73,36.3,-76.22,43.16,11.41
-Tezu,0,IN,44,27.93,96.16,57.15,1.59
-Douglas,1,US,65,31.34,-109.55,48.92,10.29
-Leo,0,BF,33,11.1,-2.1,65.43,9.01
-Kavaratti,0,IN,100,10.57,72.64,81.54,10.54
-Fukue,20,JP,100,35.03,136.69,46.4,5.82
-Moron,76,VE,94,10.49,-68.2,66.24,2.98
-Fortuna,0,ES,59,38.18,-1.13,39.2,5.82
-Mareeba,90,AU,62,-16.99,145.42,86.0,16.11
-Turukhansk,64,RU,31,65.8,87.96,-21.07,16.35
-Sola,0,FI,92,62.78,29.36,15.8,1.12
-Srednekolymsk,80,RU,31,67.46,153.71,-20.89,3.49
-Tall Kayf,100,TR,82,37.08,41.07,36.63,11.88
-Caravelas,76,BR,100,-17.73,-39.27,80.19,12.33
-Dinguiraye,44,GN,66,11.29,-10.71,62.19,2.71
-Tarauaca,76,BR,96,-8.16,-70.77,71.01,2.53
-Sinnamary,56,GF,95,5.38,-52.96,78.57,10.36
-Dingle,48,PH,72,11.0,122.67,81.99,14.05
-Utrecht,75,NL,100,52.09,5.11,46.4,11.41
-Yumen,24,CN,70,40.29,97.04,5.49,10.25
-Zanjan,0,IR,58,36.67,48.48,14.49,3.6
-Qianguo,36,CN,51,45.12,124.86,16.38,7.4
-Cabo San Lucas,20,MX,83,22.89,-109.91,69.8,3.36
-Zemio,20,CF,80,5.02,25.13,66.24,3.31
-Niteroi,40,BR,94,-29.95,-51.16,75.2,8.05
-Plettenberg Bay,0,ZA,100,-34.05,23.37,64.35,5.73
-Mount Isa,0,AU,21,-20.73,139.49,100.4,17.22
-Liverpool,75,GB,81,53.41,-2.98,50.0,25.28
-Rocha,0,UY,90,-34.48,-54.34,64.71,8.23
-Tarakan,12,ID,95,3.3,117.63,82.08,2.86
-Caraycaray,44,PH,93,11.56,124.42,80.91,14.67
-Torbay,90,CA,80,47.66,-52.73,30.2,16.11
-Nemuro,20,JP,57,43.32,145.57,23.0,20.6
-Salinopolis,92,BR,100,-0.61,-47.36,79.11,10.13
-Bellevue,1,US,67,47.61,-122.19,51.98,2.75
-Contamana,32,PE,94,-7.35,-75.01,74.16,2.04
-Bazarnyye Mataki,76,RU,82,54.9,49.93,11.25,12.44
-Port Arthur,1,US,56,29.9,-93.93,57.2,13.87
-Ahuimanu,90,US,73,21.44,-157.84,80.06,8.05
-Sabha,0,LY,78,27.03,14.43,25.38,5.77
-Bull Savanna,32,JM,83,17.89,-77.59,70.2,3.31
-Lavumisa,0,ZA,90,-27.31,31.88,63.81,2.48
-Seoul,0,KR,55,37.57,126.98,37.4,1.12
-Chegutu,0,ZW,93,-18.13,30.15,62.01,2.82
-Mayskiy,90,RU,86,43.63,44.06,33.8,4.83
-Mahendranagar,0,IN,53,28.02,81.63,55.89,3.49
-Filingue,0,NE,42,14.35,3.32,62.64,10.58
-Balkanabat,0,TM,63,39.51,54.36,20.16,1.74
-Margate,0,AU,22,-43.03,147.26,69.8,13.87
-Volokolamsk,80,RU,88,56.03,35.95,22.32,7.29
-Luancheng,90,CN,100,37.88,114.65,19.4,4.61
-Voyvozh,76,RU,75,62.89,54.96,12.87,11.54
-Yulara,0,AU,9,-25.24,130.99,105.8,17.22
-Nouakchott,0,MR,10,18.08,-15.98,60.8,6.93
-Mayumba,92,GA,99,-3.44,10.65,79.2,4.83
-Faanui,92,PF,100,-16.48,-151.75,82.44,22.32
-Nizhnevartovsk,40,RU,84,60.93,76.58,-0.41,13.42
-Kamenka,68,RU,80,53.19,44.05,9.81,11.14
-Tanout,24,NE,39,14.97,8.88,59.31,11.43
-Alofi,48,NU,70,-19.06,-169.92,84.2,13.87
-Emerald,0,AU,27,-23.53,148.16,89.6,14.99
-Girua,8,BR,94,-28.03,-54.35,70.83,7.0
-Collie,0,AU,34,-33.36,116.15,82.44,15.84
-Noumea,56,NC,70,-22.28,166.46,84.2,17.22
-Kaitangata,100,NZ,100,-46.28,169.85,56.07,5.06
-Tilichiki,0,RU,67,60.47,166.1,-9.28,2.86
-La Dolorita,20,VE,73,10.49,-66.79,77.0,2.3
-Conceicao do Mato Dentro,88,BR,88,-19.04,-43.42,69.21,6.62
-Vadgaon,0,IN,67,20.94,74.87,59.49,4.54
-Byron Bay,75,AU,83,-28.65,153.62,89.6,11.41
-Ugoofaaru,0,MV,100,5.67,73.0,81.54,9.35
-Petropavl,0,KZ,72,54.87,69.13,17.6,13.42
-Nuuk,75,GL,79,64.17,-51.74,26.6,1.12
-Eureka,40,US,85,40.8,-124.16,55.4,4.7
-Pedernales,88,EC,87,0.07,-80.05,72.99,2.71
-Tubalan,68,PH,91,6.5,125.57,81.18,3.6
-Qeshm,0,IR,100,26.96,56.27,55.4,4.7
-Chirongui,88,YT,88,-12.93,45.15,80.6,9.17
-Namtsy,90,RU,57,62.72,129.66,-43.61,4.47
-Matagami,8,NG,41,9.67,8.4,62.19,6.22
-Kibara,32,TZ,100,-2.15,33.45,64.08,5.5
-Nome,1,US,57,30.04,-94.42,55.58,12.75
-Butterworth,75,MY,74,5.4,100.37,84.2,6.93
-Santa Cruz del Norte,20,CU,83,23.15,-81.92,69.8,1.12
-Aqtobe,90,KZ,86,50.28,57.21,26.6,22.37
-Nikolskoye,20,RU,92,59.7,30.79,19.4,6.71
-Itoman,75,JP,52,26.12,127.67,69.8,16.11
-Kurdzhinovo,32,RU,84,43.99,40.96,20.52,2.19
-Celestun,0,MX,97,20.87,-90.4,74.61,16.46
-Christchurch,92,NZ,40,-43.53,172.64,69.8,10.29
-Sungairaya,48,ID,84,0.7,108.9,84.33,2.82
-Magadan,36,RU,100,59.56,150.8,10.44,6.73
-Makakilo City,1,US,66,21.35,-158.09,80.06,8.05
-Grand Forks,90,US,95,47.91,-97.06,26.6,3.36
-Tautira,75,PF,88,-17.73,-149.15,78.8,18.34
-Reforma,5,MX,33,24.02,-104.65,57.2,10.29
-Powell River,90,CA,87,49.84,-124.52,44.6,4.7
-Longhua,80,CN,100,29.21,106.21,44.19,2.37
-Erenhot,0,CN,58,43.65,111.97,11.34,4.88
-Rio Cuarto,40,AR,88,-33.13,-64.35,71.6,3.36
-Demyansk,76,RU,89,57.64,32.46,22.32,7.63
-Coquimbo,20,CL,87,-29.95,-71.34,60.8,6.93
-Nisia Floresta,40,BR,78,-6.09,-35.21,78.8,3.36
-Aguimes,0,ES,54,27.91,-15.45,57.2,3.36
-Tyazhinskiy,8,RU,45,56.11,88.52,-15.13,2.59
-Sumbe,76,AO,100,-11.2,13.84,75.78,4.21
-Deoria,0,IN,86,26.5,83.79,54.45,2.86
-Wanning,75,AT,96,48.64,13.53,33.8,6.93
-El Tocuyo,0,VE,91,9.79,-69.8,62.64,1.81
-Burns Lake,88,CA,99,54.23,-125.76,29.88,2.04
-Buzmeyin,75,TM,74,38.05,58.21,35.6,6.93
-Avera,90,US,77,33.19,-82.53,51.8,8.05
-Ginir,0,ET,60,7.14,40.71,41.49,3.6
-Severo-Kurilsk,80,RU,95,50.68,156.12,33.3,17.36
-Portland,75,US,60,45.52,-122.67,46.04,14.99
-Orleans,92,BR,99,-28.36,-49.29,67.77,2.86
-Edea,40,CM,100,3.8,10.13,78.8,6.85
-Rawson,0,AR,51,-43.3,-65.11,60.48,10.8
-Lesozavodsk,0,RU,59,45.47,133.42,19.44,3.6
-Honiara,92,SB,90,-9.43,159.96,80.28,2.86
-Baghdad,75,IQ,61,33.3,44.38,46.4,6.93
-Abu Kamal,0,SY,86,34.45,40.92,36.54,9.42
-Hovd,75,NO,80,63.83,10.7,33.8,5.82
-Ankang,0,CN,61,32.73,108.99,36.0,1.97
-Ancud,75,CL,87,-41.87,-73.83,44.6,3.36
-Mazagao,0,BR,100,-0.12,-51.29,77.0,3.36
-Narasimharajapura,0,IN,75,13.61,75.51,65.07,7.63
-Katherine,75,AU,74,-14.47,132.26,84.2,4.7
-Walvis Bay,0,NA,93,-22.95,14.51,60.8,4.7
-Hobyo,88,SO,79,5.35,48.53,76.41,18.14
-Talnakh,68,RU,46,69.49,88.39,-28.99,14.05
-Bolobo,8,CD,100,-2.17,16.23,72.18,4.5
-Sao Miguel do Araguaia,44,BR,94,-13.28,-50.16,71.64,2.08
-Mazara del Vallo,0,IT,66,37.65,12.59,50.0,9.17
-Port-Cartier,20,CA,66,50.03,-66.88,12.2,8.05
-Ozernovskiy,48,RU,83,51.5,156.52,31.41,6.73
-Kudahuvadhoo,88,MV,100,2.67,72.89,81.99,11.25
-Bereda,0,ES,76,43.27,-7.54,48.2,4.7
-Gemena,20,CD,94,3.25,19.78,71.91,2.48
-San Antonio,0,CL,87,-33.58,-71.61,59.0,2.24
-Yeppoon,75,AU,58,-23.13,150.74,84.2,12.75
-Puri,20,ID,70,-7.54,112.45,87.8,8.05
-Awjilah,20,LY,76,29.14,21.3,49.41,19.08
-Faya,0,SA,87,18.39,42.45,53.6,6.93
-Riberalta,76,BO,93,-11.0,-66.08,74.79,1.86
-Nsanje,48,MZ,89,-16.92,35.26,75.78,2.59
-Chapais,90,CA,77,49.78,-74.86,-2.21,6.93
-San Juan de los Morros,12,VE,93,9.91,-67.35,64.44,2.3
-Karratha,8,AU,15,-20.74,116.85,108.54,10.54
-Bonga,0,ET,70,7.26,36.25,49.77,2.26
-Natal,40,BR,78,-5.81,-35.21,78.8,3.36
-Muros,0,ES,86,42.77,-9.06,41.0,4.7
-Nowe Miasto Lubawskie,92,PL,95,53.43,19.59,34.2,11.77
-Anadyr,0,RU,75,64.73,177.51,-18.41,6.71
-Vila Velha,40,BR,83,-3.71,-38.6,80.6,3.36
-Perivolion,0,GR,86,39.42,20.01,33.8,9.53
-Batagay-Alyta,20,RU,0,67.8,130.41,-36.19,4.05
-Naantali,68,FI,100,60.45,22.03,21.2,4.7
-Ilhabela,0,BR,100,-23.78,-45.36,79.02,11.43
-Kieta,80,PG,89,-6.22,155.63,84.51,3.76
-Vilsbiburg,75,DE,92,48.45,12.36,33.8,23.04
-Nelson Bay,75,AU,69,-32.72,152.14,78.8,20.8
-San Pedro,0,AR,67,-33.68,-59.66,76.14,14.16
-Hualmay,0,PE,95,-11.1,-77.61,64.62,6.29
-Mariakani,80,KE,93,-3.87,39.47,75.24,6.4
-Vila,0,IT,73,45.18,8.4,33.8,4.7
-Riyadh,0,SA,32,24.63,46.72,51.8,3.36
-Brae,92,GB,93,60.4,-1.35,48.2,26.4
-Molchanovo,24,RU,28,57.58,83.76,-19.0,10.25
-Palmer,75,US,83,61.6,-149.11,10.94,3.36
-Boguchany,32,RU,65,58.38,97.46,-8.83,6.62
-Zhezkazgan,90,KZ,84,47.8,67.71,3.2,6.71
-Argir,92,FO,100,62.0,-6.77,42.8,18.34
-Tias,0,ES,82,28.96,-13.65,60.8,10.29
-Dakoro,0,NE,42,14.51,6.76,61.02,10.8
-Zary,92,PL,97,51.64,15.14,39.51,18.19
-Kaeo,92,NZ,51,-35.1,173.78,77.31,9.8
-Beringovskiy,32,RU,92,63.05,179.32,-7.39,26.42
-Vao,12,EE,86,59.1,26.19,14.85,4.5
-Tual,80,ID,100,-5.67,132.75,83.16,13.78
-Itarema,56,BR,97,-2.92,-39.92,73.71,1.25
-Nola,8,CF,93,3.52,16.05,71.19,2.48
-Zharkovskiy,76,RU,89,55.85,32.27,23.22,6.22
-Neverkino,68,RU,82,52.79,46.74,10.89,10.36
-Edgewater,1,US,93,28.99,-80.9,62.06,9.42
-Mbala,80,ZM,97,-8.85,31.37,60.66,2.75
-Machaneng,0,BW,78,-23.19,27.49,71.46,9.13
-Baringo,0,KE,83,0.47,35.97,50.94,1.97
-Kandalaksha,24,RU,78,67.15,32.41,24.93,8.08
-Zima,44,RU,65,53.93,102.05,-0.73,7.9
-College,1,US,72,64.86,-147.8,-5.98,4.32
-Taoudenni,0,ML,28,22.68,-3.98,45.72,13.6
-Saint Anthony,1,US,76,43.97,-111.68,12.02,5.82
-Hurricane,1,US,43,37.18,-113.29,44.96,5.82
-Sangar,32,RU,41,63.92,127.47,-26.83,6.62
-Sobolevo,88,RU,91,54.43,31.9,26.28,8.34
-Batagay,8,RU,0,67.65,134.64,-55.27,2.82
-Winslow,64,GB,81,51.94,-0.88,51.8,20.8
-Amarante do Maranhao,32,BR,98,-5.57,-46.74,70.38,4.88
-Dalvik,88,SE,92,57.79,14.13,30.2,3.36
-Kaseda,75,JP,58,31.42,130.32,59.0,10.29
-Beloha,80,MG,94,-25.17,45.06,72.63,3.71
-Ust-Kan,44,RU,77,50.93,84.77,-3.7,2.26
-Pasewalk,75,DE,86,53.51,13.99,41.0,17.22
-Okaihau,92,NZ,51,-35.32,173.77,77.31,9.8
-Pakdasht,0,IR,65,35.48,51.68,32.0,4.7
-Youkounkoun,12,GN,66,12.53,-13.12,63.18,3.04
-Oranjemund,92,ZA,93,-28.55,16.43,65.07,9.86
-Lumby,90,CA,89,50.25,-118.97,33.8,3.36
-Abu Dhabi,40,AE,82,24.47,54.37,62.6,1.12
-Mykhaylivka,75,UA,92,47.27,35.22,26.6,8.95
-Cukai,75,MY,88,4.25,103.42,82.4,3.36
-Saint-Leu,0,RE,69,-21.15,55.28,80.6,5.82
-Oranzherei,48,RU,92,45.85,47.57,30.2,4.47
-Oda,20,JP,65,35.19,132.5,46.4,4.7
-Rolla,90,US,95,37.95,-91.77,32.36,5.82
-Port Hedland,0,AU,35,-20.31,118.58,102.2,8.05
-Iqaluit,5,CA,67,63.75,-68.52,-23.81,24.16
-Huicheng,90,CN,88,23.03,116.29,64.4,4.47
-Kiunga,36,PG,85,-6.12,141.3,81.99,2.48
-Santa Cruz,90,US,89,36.97,-122.03,59.0,9.17
-Cuamba,92,MZ,99,-14.8,36.54,68.49,6.62
-Nicolas Bravo,5,MX,33,24.39,-104.74,57.2,10.29
-Victoria,75,BN,74,5.28,115.24,86.0,4.7
-Bayevo,12,RU,69,53.27,80.77,-5.05,8.34
-Hami,92,CN,71,42.84,93.51,13.59,4.38
-Llangefni,92,GB,87,53.26,-4.31,50.0,20.8
-Carcassonne,90,FR,75,43.21,2.35,50.0,21.92
-Khorixas,0,NA,77,-20.37,14.96,44.91,2.82
-Kuntaur,0,GM,55,13.67,-14.89,65.7,4.88
-Victor Harbor,0,AU,39,-35.55,138.62,78.8,16.11
-Joaima,12,BR,94,-16.65,-41.03,65.79,4.72
-Kununurra,12,AU,62,-15.77,128.74,86.0,4.7
-Gusev,88,RU,92,54.59,22.2,31.77,7.9
-Beaufort,75,MY,74,5.36,115.76,86.0,4.7
-Najran,0,SA,77,17.54,44.22,50.0,2.24
-Antalaha,24,MG,98,-14.9,50.28,76.32,4.54
-Gravdal,90,NO,87,59.79,5.78,44.6,18.34
-Blajani,0,RO,52,45.32,26.82,3.78,2.59
-Kondinskoye,80,RU,84,59.65,67.41,14.31,10.31
-Iracoubo,56,GF,79,5.48,-53.21,75.96,4.76
-Togur,32,RU,48,58.36,82.83,-16.12,10.58
-Borisoglebskiy,90,RU,85,57.26,39.15,19.4,8.95
-Port Keats,24,AU,95,-14.25,129.55,89.64,2.98
-Kidal,36,ML,15,18.44,1.41,53.37,9.8
-Port Lincoln,0,AU,69,-34.72,135.86,73.98,14.61
-Ketchikan,90,US,92,55.34,-131.65,50.0,5.82
-Rathenow,75,DE,81,52.61,12.34,42.8,16.11
-Doctor Juan Leon Mallorquin,75,PY,94,-25.4,-55.27,73.4,4.76
-Husavik,80,CA,93,50.56,-96.99,18.63,10.65
-Sardarshahr,36,IN,95,28.43,74.48,51.84,8.52
-Cayenne,20,GF,83,4.94,-52.33,77.0,3.36
-Kingman,20,US,33,35.19,-114.05,59.0,4.7
-Sandakan,75,MY,79,5.84,118.12,84.2,6.93
-Kaabong,0,UG,53,3.51,34.14,59.49,6.85
-Bumba,36,CD,88,2.18,22.47,72.81,4.5
-Caruray,40,PH,70,10.31,119.01,86.0,9.17
-Namalenga,20,TZ,92,-10.95,39.1,72.36,5.21
-Okhotsk,0,RU,100,59.36,143.24,-2.53,9.08
-Bubaque,8,GW,100,11.28,-15.83,77.49,11.25
-Latung,24,ID,85,-8.45,120.42,82.17,4.5
-Puro,68,PH,85,13.13,123.76,79.74,12.55
-Chor,12,PK,93,25.52,69.77,54.09,10.13
-Blagoyevo,88,RU,78,63.37,47.92,16.83,7.9
-Waitati,64,NZ,94,-45.75,170.57,59.76,4.72
-San Ramon,80,NI,90,12.92,-85.84,63.81,2.08
-Rio Gallegos,0,AR,46,-51.62,-69.22,50.0,25.28
-Mitsamiouli,64,KM,95,-11.38,43.28,83.07,10.36
-Benghazi,88,LY,100,32.12,20.07,59.13,34.02
-Kalmunai,88,LK,100,7.42,81.82,73.89,5.77
-Sukhobezvodnoye,80,RU,74,57.05,44.89,11.52,6.89
-Rorvik,92,NO,100,64.86,11.24,32.94,8.57
-La Libertad,75,PE,93,-16.38,-71.56,51.8,1.25
-Ewa Beach,1,US,66,21.32,-158.01,80.06,8.05
-Statesville,90,US,92,35.78,-80.89,37.04,6.93
-Mokshan,68,RU,80,53.44,44.61,9.81,10.92
-Aksarka,68,RU,84,66.56,67.8,5.22,16.58
-Wladyslawowo,75,PL,100,54.79,18.4,35.6,9.17
+City,Cloudiness,Country,Date,Humidity,Latitude,Longitude,Max Temp,Wind Speed
+Rikitea,80,PF,<built-in method now of type object at 0x00007FFE23B79860>,99,-23.12,-134.97,79.49,15.21
+Albany,75,US,<built-in method now of type object at 0x00007FFE23B79860>,53,42.65,-73.75,15.98,5.82
+Pevek,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,72,69.7,170.27,-23.92,6.15
+Havre-Saint-Pierre,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,66,50.23,-63.6,15.8,9.17
+Saint-Philippe,1,CA,<built-in method now of type object at 0x00007FFE23B79860>,84,45.36,-73.48,1.4,2.8
+Axim,24,GH,<built-in method now of type object at 0x00007FFE23B79860>,97,4.87,-2.24,83.99,7.76
+Busselton,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,80,-33.64,115.35,74.9,17.0
+Ust-Maya,48,RU,<built-in method now of type object at 0x00007FFE23B79860>,40,60.42,134.54,-26.08,2.84
+Port Elizabeth,90,US,<built-in method now of type object at 0x00007FFE23B79860>,92,39.31,-74.98,26.96,3.51
+Saskylakh,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,0,71.97,114.09,-56.68,4.59
+Traverse City,40,US,<built-in method now of type object at 0x00007FFE23B79860>,71,44.76,-85.62,24.8,5.82
+Mataura,88,NZ,<built-in method now of type object at 0x00007FFE23B79860>,91,-46.19,168.86,55.37,4.63
+Saint George,20,GR,<built-in method now of type object at 0x00007FFE23B79860>,55,39.45,22.34,32.0,8.05
+Tuktoyaktuk,5,CA,<built-in method now of type object at 0x00007FFE23B79860>,66,69.44,-133.03,-32.81,4.7
+Punta Arenas,75,CL,<built-in method now of type object at 0x00007FFE23B79860>,65,-53.16,-70.91,46.4,27.51
+Souillac,90,FR,<built-in method now of type object at 0x00007FFE23B79860>,93,45.6,-0.6,48.2,5.82
+Ushuaia,40,AR,<built-in method now of type object at 0x00007FFE23B79860>,70,-54.81,-68.31,44.6,33.33
+Namibe,0,AO,<built-in method now of type object at 0x00007FFE23B79860>,100,-15.19,12.15,72.65,6.38
+Northam,92,GB,<built-in method now of type object at 0x00007FFE23B79860>,93,51.04,-4.21,48.2,17.22
+Nara,20,JP,<built-in method now of type object at 0x00007FFE23B79860>,53,34.68,135.8,53.6,6.93
+Mandali,92,IQ,<built-in method now of type object at 0x00007FFE23B79860>,58,33.75,45.55,50.6,13.47
+Bredasdorp,44,ZA,<built-in method now of type object at 0x00007FFE23B79860>,52,-34.53,20.04,69.8,6.93
+Terme,90,TR,<built-in method now of type object at 0x00007FFE23B79860>,87,41.21,36.97,44.6,16.11
+Xuddur,0,SO,<built-in method now of type object at 0x00007FFE23B79860>,62,4.12,43.89,72.56,15.93
+New Norfolk,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,46,-42.78,147.06,69.8,18.34
+Georgetown,20,GY,<built-in method now of type object at 0x00007FFE23B79860>,100,6.8,-58.16,71.6,4.7
+Barrow,92,AR,<built-in method now of type object at 0x00007FFE23B79860>,97,-38.31,-60.23,63.65,5.59
+Praia da Vitoria,20,PT,<built-in method now of type object at 0x00007FFE23B79860>,82,38.73,-27.07,59.0,22.37
+Udachnyy,12,RU,<built-in method now of type object at 0x00007FFE23B79860>,57,66.42,112.4,-33.37,2.39
+Lianzhou,88,CN,<built-in method now of type object at 0x00007FFE23B79860>,90,24.79,112.38,51.5,3.02
+Ust-Koksa,56,RU,<built-in method now of type object at 0x00007FFE23B79860>,73,50.27,85.62,8.48,2.51
+Ilulissat,56,GL,<built-in method now of type object at 0x00007FFE23B79860>,48,69.22,-51.1,-7.61,3.36
+Khatanga,36,RU,<built-in method now of type object at 0x00007FFE23B79860>,56,71.98,102.47,-31.93,3.06
+Ephrata,1,US,<built-in method now of type object at 0x00007FFE23B79860>,92,47.32,-119.55,30.92,5.82
+Guerrero Negro,88,MX,<built-in method now of type object at 0x00007FFE23B79860>,100,27.97,-114.04,56.0,4.74
+Imeni Poliny Osipenko,64,RU,<built-in method now of type object at 0x00007FFE23B79860>,92,52.42,136.49,-7.27,3.13
+Teahupoo,90,PF,<built-in method now of type object at 0x00007FFE23B79860>,74,-17.83,-149.27,82.4,14.99
+Chuy,64,UY,<built-in method now of type object at 0x00007FFE23B79860>,96,-33.69,-53.46,68.87,10.63
+West Odessa,8,US,<built-in method now of type object at 0x00007FFE23B79860>,73,31.84,-102.48,39.92,3.36
+Saldanha,76,PT,<built-in method now of type object at 0x00007FFE23B79860>,81,41.42,-6.55,20.9,3.24
+Cabra,0,ES,<built-in method now of type object at 0x00007FFE23B79860>,90,37.47,-4.43,32.0,5.82
+Hilo,75,US,<built-in method now of type object at 0x00007FFE23B79860>,81,19.71,-155.08,71.06,5.82
+Chinhoyi,8,ZW,<built-in method now of type object at 0x00007FFE23B79860>,90,-17.36,30.19,68.69,5.64
+Vaini,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,44,15.34,74.49,78.8,6.93
+Dikson,64,RU,<built-in method now of type object at 0x00007FFE23B79860>,100,73.51,80.55,-12.04,31.43
+Ponta do Sol,92,BR,<built-in method now of type object at 0x00007FFE23B79860>,99,-20.63,-46.0,63.2,1.05
+Marsa Matruh,20,EG,<built-in method now of type object at 0x00007FFE23B79860>,87,31.35,27.25,46.4,18.34
+Carnarvon,56,ZA,<built-in method now of type object at 0x00007FFE23B79860>,86,-30.97,22.13,56.72,7.83
+Ponta Delgada,75,PT,<built-in method now of type object at 0x00007FFE23B79860>,67,37.73,-25.67,59.0,9.17
+San Cristobal,90,EC,<built-in method now of type object at 0x00007FFE23B79860>,100,-0.39,-78.55,55.4,1.12
+Mar del Plata,0,AR,<built-in method now of type object at 0x00007FFE23B79860>,59,-46.43,-67.52,51.86,8.05
+Mahebourg,40,MU,<built-in method now of type object at 0x00007FFE23B79860>,66,-20.41,57.7,84.2,11.41
+Alghero,75,IT,<built-in method now of type object at 0x00007FFE23B79860>,76,40.56,8.32,51.8,13.87
+Birin,0,SY,<built-in method now of type object at 0x00007FFE23B79860>,93,35.01,36.67,31.97,2.84
+Bluff,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,34,-23.58,149.07,94.43,12.3
+Shamary,88,RU,<built-in method now of type object at 0x00007FFE23B79860>,87,57.34,58.22,29.63,16.49
+Qaanaaq,0,GL,<built-in method now of type object at 0x00007FFE23B79860>,100,77.48,-69.36,-24.64,9.89
+Karwar,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,39,14.8,74.13,85.07,2.62
+Mandurah,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,57,-32.55,115.7,78.8,21.92
+Olenegorsk,88,RU,<built-in method now of type object at 0x00007FFE23B79860>,90,68.14,33.28,25.22,6.42
+Hobart,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,46,-42.88,147.33,69.8,18.34
+Tevriz,88,RU,<built-in method now of type object at 0x00007FFE23B79860>,80,57.51,72.4,10.55,9.84
+Cape Town,40,ZA,<built-in method now of type object at 0x00007FFE23B79860>,88,-33.93,18.42,64.4,10.29
+Cascais,0,PT,<built-in method now of type object at 0x00007FFE23B79860>,75,38.7,-9.42,42.8,6.93
+Rosarito,40,CO,<built-in method now of type object at 0x00007FFE23B79860>,82,4.91,-75.23,68.0,3.36
+Bonthe,56,SL,<built-in method now of type object at 0x00007FFE23B79860>,84,7.53,-12.5,79.85,5.03
+Upernavik,32,GL,<built-in method now of type object at 0x00007FFE23B79860>,100,72.79,-56.15,-6.55,8.77
+Sao Joao da Barra,68,BR,<built-in method now of type object at 0x00007FFE23B79860>,98,-21.64,-41.05,78.68,12.86
+Hofn,92,IS,<built-in method now of type object at 0x00007FFE23B79860>,100,64.25,-15.21,35.75,24.94
+El Alto,75,BO,<built-in method now of type object at 0x00007FFE23B79860>,93,-16.5,-68.19,44.6,4.7
+Trapani,20,IT,<built-in method now of type object at 0x00007FFE23B79860>,62,38.02,12.54,53.6,13.87
+Castro,0,CL,<built-in method now of type object at 0x00007FFE23B79860>,100,-42.48,-73.76,42.8,6.93
+Cherskiy,32,RU,<built-in method now of type object at 0x00007FFE23B79860>,60,68.75,161.3,-20.5,1.5
+Goderich,20,CA,<built-in method now of type object at 0x00007FFE23B79860>,87,43.74,-81.71,10.28,10.63
+Sioux Lookout,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,85,50.1,-91.92,17.6,6.93
+Afrikanda,8,RU,<built-in method now of type object at 0x00007FFE23B79860>,87,67.44,32.78,21.26,5.82
+Sarab,0,IR,<built-in method now of type object at 0x00007FFE23B79860>,66,38.61,44.99,16.13,2.62
+Tiksi,20,RU,<built-in method now of type object at 0x00007FFE23B79860>,55,71.64,128.87,-31.84,3.36
+Avarua,40,CK,<built-in method now of type object at 0x00007FFE23B79860>,78,-21.21,-159.78,80.6,8.05
+Huarmey,32,PE,<built-in method now of type object at 0x00007FFE23B79860>,90,-10.07,-78.15,59.42,3.36
+Bambous Virieux,40,MU,<built-in method now of type object at 0x00007FFE23B79860>,66,-20.34,57.76,84.2,11.41
+San Patricio,0,PY,<built-in method now of type object at 0x00007FFE23B79860>,96,-26.98,-56.83,73.28,3.36
+Baykit,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,48,61.68,96.39,-30.4,3.29
+Airai,32,TL,<built-in method now of type object at 0x00007FFE23B79860>,64,-8.93,125.41,83.09,2.13
+Kodiak,90,US,<built-in method now of type object at 0x00007FFE23B79860>,92,39.95,-94.76,32.0,13.87
+Whitehorse,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,83,60.72,-135.06,-5.81,2.35
+Arraial do Cabo,12,BR,<built-in method now of type object at 0x00007FFE23B79860>,93,-22.97,-42.02,75.62,11.18
+Hermanus,12,ZA,<built-in method now of type object at 0x00007FFE23B79860>,74,-34.42,19.24,63.2,9.95
+Umm Lajj,100,SA,<built-in method now of type object at 0x00007FFE23B79860>,97,25.02,37.27,72.29,10.45
+Pitimbu,0,BR,<built-in method now of type object at 0x00007FFE23B79860>,100,-7.47,-34.81,73.4,6.93
+Mitchell,90,US,<built-in method now of type object at 0x00007FFE23B79860>,87,43.71,-98.03,23.0,5.82
+Puerto Ayora,36,EC,<built-in method now of type object at 0x00007FFE23B79860>,100,-0.74,-90.35,75.53,7.31
+Sliven,5,BG,<built-in method now of type object at 0x00007FFE23B79860>,92,42.68,26.32,21.2,4.25
+Kapaa,40,US,<built-in method now of type object at 0x00007FFE23B79860>,78,22.08,-159.32,73.04,3.36
+Omsukchan,64,RU,<built-in method now of type object at 0x00007FFE23B79860>,84,62.53,155.8,-10.87,2.8
+Hit,8,IQ,<built-in method now of type object at 0x00007FFE23B79860>,82,33.64,42.83,43.04,4.74
+Vila Franca do Campo,75,PT,<built-in method now of type object at 0x00007FFE23B79860>,67,37.72,-25.43,59.0,9.17
+Zapolyarnyy,68,RU,<built-in method now of type object at 0x00007FFE23B79860>,79,69.43,30.82,23.0,9.17
+Minab,0,IR,<built-in method now of type object at 0x00007FFE23B79860>,19,27.15,57.07,69.8,2.24
+Hithadhoo,24,MV,<built-in method now of type object at 0x00007FFE23B79860>,100,-0.6,73.08,81.47,6.6
+Sitka,48,US,<built-in method now of type object at 0x00007FFE23B79860>,89,37.17,-99.65,24.5,6.64
+Mandalgovi,24,MN,<built-in method now of type object at 0x00007FFE23B79860>,49,45.76,106.27,18.11,9.62
+Sao Filipe,8,CV,<built-in method now of type object at 0x00007FFE23B79860>,100,14.9,-24.5,70.85,10.07
+Slave Lake,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,79,55.28,-114.77,24.8,2.24
+Inta,88,RU,<built-in method now of type object at 0x00007FFE23B79860>,80,66.04,60.13,11.72,3.58
+Butaritari,44,KI,<built-in method now of type object at 0x00007FFE23B79860>,100,3.07,172.79,83.63,10.33
+Aklavik,5,CA,<built-in method now of type object at 0x00007FFE23B79860>,65,68.22,-135.01,-34.61,2.24
+Namatanai,68,PG,<built-in method now of type object at 0x00007FFE23B79860>,100,-3.66,152.44,82.55,16.67
+Sorong,20,ID,<built-in method now of type object at 0x00007FFE23B79860>,100,-0.86,131.25,83.63,9.4
+Dongsheng,48,CN,<built-in method now of type object at 0x00007FFE23B79860>,86,29.72,112.52,49.07,4.74
+Beohari,92,IN,<built-in method now of type object at 0x00007FFE23B79860>,82,24.05,81.38,66.8,3.36
+Tasiilaq,64,GL,<built-in method now of type object at 0x00007FFE23B79860>,67,65.61,-37.64,17.6,8.05
+East London,0,ZA,<built-in method now of type object at 0x00007FFE23B79860>,69,-33.02,27.91,73.4,10.29
+Port Alfred,0,ZA,<built-in method now of type object at 0x00007FFE23B79860>,84,-33.59,26.89,69.32,8.55
+Kirensk,48,RU,<built-in method now of type object at 0x00007FFE23B79860>,64,57.78,108.12,-0.34,5.26
+High Level,20,CA,<built-in method now of type object at 0x00007FFE23B79860>,84,58.52,-117.13,5.0,13.87
+Ribeira Grande,44,PT,<built-in method now of type object at 0x00007FFE23B79860>,98,38.52,-28.7,62.12,20.69
+Sterling,90,US,<built-in method now of type object at 0x00007FFE23B79860>,100,39.0,-77.4,30.92,4.7
+Fort Nelson,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,83,58.81,-122.69,-4.01,9.17
+Bandarbeyla,0,SO,<built-in method now of type object at 0x00007FFE23B79860>,98,9.49,50.81,77.96,18.68
+Sabang,92,PH,<built-in method now of type object at 0x00007FFE23B79860>,90,13.72,123.58,78.5,14.14
+Prainha,76,BR,<built-in method now of type object at 0x00007FFE23B79860>,92,-1.8,-53.48,76.34,3.06
+Narsaq,88,GL,<built-in method now of type object at 0x00007FFE23B79860>,86,60.91,-46.05,32.0,10.29
+Araouane,12,ML,<built-in method now of type object at 0x00007FFE23B79860>,36,18.9,-3.53,48.17,11.9
+Jamestown,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,24,-33.21,138.6,92.99,6.64
+Shahrud,0,IR,<built-in method now of type object at 0x00007FFE23B79860>,55,36.42,54.97,30.44,2.73
+Basco,90,US,<built-in method now of type object at 0x00007FFE23B79860>,92,40.33,-91.2,30.2,9.17
+Port Blair,40,IN,<built-in method now of type object at 0x00007FFE23B79860>,74,11.67,92.75,86.0,13.87
+Sabzevar,0,IR,<built-in method now of type object at 0x00007FFE23B79860>,64,36.21,57.68,32.51,2.51
+Tomatlan,0,MX,<built-in method now of type object at 0x00007FFE23B79860>,91,19.93,-105.25,65.18,2.35
+Nabire,56,ID,<built-in method now of type object at 0x00007FFE23B79860>,90,-3.36,135.5,76.7,1.23
+Leningradskiy,20,RU,<built-in method now of type object at 0x00007FFE23B79860>,100,69.38,178.42,-18.07,8.43
+Ayolas,0,PY,<built-in method now of type object at 0x00007FFE23B79860>,96,-27.39,-56.84,73.01,6.08
+Ostrovnoy,76,RU,<built-in method now of type object at 0x00007FFE23B79860>,100,68.05,39.51,18.92,12.3
+Deputatskiy,48,RU,<built-in method now of type object at 0x00007FFE23B79860>,54,69.3,139.9,-32.38,2.8
+Ovsyanka,48,RU,<built-in method now of type object at 0x00007FFE23B79860>,68,53.58,126.91,-1.42,3.58
+Iskateley,76,RU,<built-in method now of type object at 0x00007FFE23B79860>,80,67.68,53.15,15.05,17.83
+Luderitz,8,NA,<built-in method now of type object at 0x00007FFE23B79860>,90,-26.65,15.16,61.67,3.58
+Pisco,0,PE,<built-in method now of type object at 0x00007FFE23B79860>,88,-13.71,-76.2,71.6,10.29
+Soe,56,EE,<built-in method now of type object at 0x00007FFE23B79860>,100,57.91,26.05,28.4,4.7
+Tabas,32,IR,<built-in method now of type object at 0x00007FFE23B79860>,41,33.6,56.92,41.33,0.89
+Trat,20,TH,<built-in method now of type object at 0x00007FFE23B79860>,74,12.25,102.51,86.0,4.7
+Clyde River,1,CA,<built-in method now of type object at 0x00007FFE23B79860>,66,70.47,-68.59,-32.81,5.82
+Provideniya,20,RU,<built-in method now of type object at 0x00007FFE23B79860>,100,64.42,-173.23,-8.17,24.76
+Gat,0,SN,<built-in method now of type object at 0x00007FFE23B79860>,77,14.69,-16.54,68.0,13.87
+Constitucion,0,MX,<built-in method now of type object at 0x00007FFE23B79860>,73,23.99,-104.67,40.79,6.26
+Bihoro,75,JP,<built-in method now of type object at 0x00007FFE23B79860>,73,43.75,144.14,26.6,10.29
+Tuatapere,48,NZ,<built-in method now of type object at 0x00007FFE23B79860>,87,-46.13,167.69,58.07,5.3
+Lakeside,1,US,<built-in method now of type object at 0x00007FFE23B79860>,87,32.86,-116.92,57.02,2.24
+Shasta Lake,20,US,<built-in method now of type object at 0x00007FFE23B79860>,93,40.68,-122.36,50.0,1.9
+Batemans Bay,100,AU,<built-in method now of type object at 0x00007FFE23B79860>,88,-35.71,150.18,70.22,5.26
+Concarneau,90,FR,<built-in method now of type object at 0x00007FFE23B79860>,100,47.88,-3.92,50.0,13.87
+Lavrentiya,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,89,65.58,-170.99,-10.33,30.13
+Los Llanos de Aridane,0,ES,<built-in method now of type object at 0x00007FFE23B79860>,62,28.66,-17.92,59.0,6.93
+Lata,20,IN,<built-in method now of type object at 0x00007FFE23B79860>,100,30.78,78.62,37.1,1.72
+Rivadavia,20,AR,<built-in method now of type object at 0x00007FFE23B79860>,83,-31.53,-68.59,60.95,7.27
+Comodoro Rivadavia,0,AR,<built-in method now of type object at 0x00007FFE23B79860>,27,-45.87,-67.48,64.4,9.17
+Inhambane,24,MZ,<built-in method now of type object at 0x00007FFE23B79860>,84,-23.87,35.38,85.52,6.31
+Bonavista,0,CA,<built-in method now of type object at 0x00007FFE23B79860>,100,48.65,-53.11,23.6,14.58
+Kahului,90,US,<built-in method now of type object at 0x00007FFE23B79860>,76,20.89,-156.47,73.94,4.14
+Dunedin,92,NZ,<built-in method now of type object at 0x00007FFE23B79860>,100,-45.87,170.5,52.49,7.16
+Chokurdakh,76,RU,<built-in method now of type object at 0x00007FFE23B79860>,70,70.62,147.9,-23.11,8.39
+Solnechnyy,64,RU,<built-in method now of type object at 0x00007FFE23B79860>,78,50.72,136.64,-3.94,3.06
+Mount Gambier,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,47,-37.83,140.78,77.0,18.34
+Takoradi,20,GH,<built-in method now of type object at 0x00007FFE23B79860>,100,4.89,-1.75,81.65,8.16
+Bassano,0,CA,<built-in method now of type object at 0x00007FFE23B79860>,53,50.79,-112.47,5.96,2.73
+Evensk,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,100,61.92,159.24,1.55,8.77
+Atuona,48,PF,<built-in method now of type object at 0x00007FFE23B79860>,100,-9.8,-139.03,81.11,15.7
+Hambantota,90,LK,<built-in method now of type object at 0x00007FFE23B79860>,83,6.12,81.12,82.4,11.41
+Lorengau,88,PG,<built-in method now of type object at 0x00007FFE23B79860>,99,-2.02,147.27,83.45,14.47
+Laguna,0,MX,<built-in method now of type object at 0x00007FFE23B79860>,82,27.52,-110.01,52.31,2.01
+Chifeng,0,CN,<built-in method now of type object at 0x00007FFE23B79860>,26,42.27,118.96,30.35,5.93
+Praya,75,ID,<built-in method now of type object at 0x00007FFE23B79860>,75,-8.71,116.27,89.6,6.93
+Vardo,90,US,<built-in method now of type object at 0x00007FFE23B79860>,84,39.62,-77.74,30.2,5.82
+Jucuaran,0,SV,<built-in method now of type object at 0x00007FFE23B79860>,100,13.25,-88.25,74.45,3.85
+Te Anau,80,NZ,<built-in method now of type object at 0x00007FFE23B79860>,54,-45.41,167.72,57.26,5.75
+Saint-Georges,0,CA,<built-in method now of type object at 0x00007FFE23B79860>,77,46.12,-70.67,-0.88,4.63
+Lebu,0,ET,<built-in method now of type object at 0x00007FFE23B79860>,34,8.96,38.73,51.8,2.24
+Pangnirtung,12,CA,<built-in method now of type object at 0x00007FFE23B79860>,60,66.15,-65.72,-33.55,4.03
+Hasaki,40,JP,<built-in method now of type object at 0x00007FFE23B79860>,49,35.73,140.83,50.0,10.29
+Poum,40,MK,<built-in method now of type object at 0x00007FFE23B79860>,84,41.28,20.71,8.6,5.82
+Ouahigouya,0,BF,<built-in method now of type object at 0x00007FFE23B79860>,28,13.58,-2.42,60.23,9.78
+Yerbogachen,12,RU,<built-in method now of type object at 0x00007FFE23B79860>,51,61.28,108.01,-17.8,4.63
+Yanam,8,IN,<built-in method now of type object at 0x00007FFE23B79860>,61,16.73,82.22,78.8,6.93
+Saint-Augustin,90,FR,<built-in method now of type object at 0x00007FFE23B79860>,100,44.83,-0.61,50.0,6.93
+Mayor Pablo Lagerenza,12,PY,<built-in method now of type object at 0x00007FFE23B79860>,91,-19.93,-60.77,74.9,6.26
+Alice Springs,40,AU,<built-in method now of type object at 0x00007FFE23B79860>,24,-23.7,133.88,89.6,11.41
+Lokachi,88,UA,<built-in method now of type object at 0x00007FFE23B79860>,94,50.74,24.65,33.05,13.09
+Coyula,92,MX,<built-in method now of type object at 0x00007FFE23B79860>,100,20.93,-98.48,62.84,2.73
+Preobrazheniye,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,43,42.9,133.91,29.09,2.35
+Flinders,48,AU,<built-in method now of type object at 0x00007FFE23B79860>,77,-34.58,150.85,75.17,6.31
+Piraju,36,BR,<built-in method now of type object at 0x00007FFE23B79860>,91,-23.19,-49.38,69.32,9.17
+Longyearbyen,44,NO,<built-in method now of type object at 0x00007FFE23B79860>,87,78.22,15.63,1.19,4.74
+Cairns,90,AU,<built-in method now of type object at 0x00007FFE23B79860>,70,-16.92,145.77,84.2,10.29
+Howard Springs,40,AU,<built-in method now of type object at 0x00007FFE23B79860>,70,-12.5,131.05,87.8,4.7
+Mao,20,DO,<built-in method now of type object at 0x00007FFE23B79860>,100,19.55,-71.08,69.8,6.31
+Frumusita,24,RO,<built-in method now of type object at 0x00007FFE23B79860>,90,45.67,28.07,7.85,2.84
+Konstantinovka,44,MD,<built-in method now of type object at 0x00007FFE23B79860>,91,47.99,28.86,15.05,5.53
+Vanimo,8,PG,<built-in method now of type object at 0x00007FFE23B79860>,100,-2.67,141.3,82.73,19.06
+Eirunepe,92,BR,<built-in method now of type object at 0x00007FFE23B79860>,98,-6.66,-69.87,72.29,2.06
+Port Hardy,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,87,50.7,-127.42,46.4,16.11
+Atar,0,MR,<built-in method now of type object at 0x00007FFE23B79860>,28,20.52,-13.05,51.5,8.66
+Ormond Beach,90,US,<built-in method now of type object at 0x00007FFE23B79860>,98,29.29,-81.06,60.98,11.07
+Cidreira,24,BR,<built-in method now of type object at 0x00007FFE23B79860>,92,-30.17,-50.22,72.92,10.96
+Cap Malheureux,40,MU,<built-in method now of type object at 0x00007FFE23B79860>,66,-19.98,57.61,84.2,11.41
+Isakly,64,RU,<built-in method now of type object at 0x00007FFE23B79860>,90,54.13,51.53,17.75,12.46
+Naze,12,NG,<built-in method now of type object at 0x00007FFE23B79860>,90,5.43,7.07,71.03,4.14
+Inongo,32,CD,<built-in method now of type object at 0x00007FFE23B79860>,96,-1.93,18.29,74.18,4.29
+Calamar,64,CO,<built-in method now of type object at 0x00007FFE23B79860>,98,1.96,-72.65,71.75,1.5
+Hay River,75,CA,<built-in method now of type object at 0x00007FFE23B79860>,70,60.82,-115.79,-5.81,12.75
+Norman Wells,40,CA,<built-in method now of type object at 0x00007FFE23B79860>,73,65.28,-126.83,-34.61,4.7
+Belmonte,0,PT,<built-in method now of type object at 0x00007FFE23B79860>,79,40.36,-7.35,25.85,5.64
+Cockburn Town,100,TC,<built-in method now of type object at 0x00007FFE23B79860>,100,21.46,-71.14,74.45,17.16
+Kavieng,76,PG,<built-in method now of type object at 0x00007FFE23B79860>,100,-2.57,150.8,82.19,11.86
+Buala,0,SB,<built-in method now of type object at 0x00007FFE23B79860>,81,-8.15,159.59,85.25,9.95
+Omboue,92,GA,<built-in method now of type object at 0x00007FFE23B79860>,100,-1.57,9.26,74.72,8.88
+Lompoc,1,US,<built-in method now of type object at 0x00007FFE23B79860>,93,34.64,-120.46,51.98,5.82
+Nanortalik,92,GL,<built-in method now of type object at 0x00007FFE23B79860>,94,60.14,-45.24,31.52,9.44
+Bara,8,NG,<built-in method now of type object at 0x00007FFE23B79860>,45,10.41,10.6,61.58,7.65
+Lagoa,0,PT,<built-in method now of type object at 0x00007FFE23B79860>,49,37.14,-8.45,48.2,8.05
+Mangai,88,CD,<built-in method now of type object at 0x00007FFE23B79860>,94,-4.07,19.59,73.46,2.28
+Kathmandu,20,NP,<built-in method now of type object at 0x00007FFE23B79860>,58,27.71,85.32,57.2,2.57
+Presidente Epitacio,44,BR,<built-in method now of type object at 0x00007FFE23B79860>,90,-21.76,-52.12,72.29,3.51
+Port-Gentil,75,GA,<built-in method now of type object at 0x00007FFE23B79860>,94,-0.72,8.78,80.6,2.24
+Katsuura,20,JP,<built-in method now of type object at 0x00007FFE23B79860>,79,33.93,134.5,50.0,12.75
+Bethel,90,US,<built-in method now of type object at 0x00007FFE23B79860>,82,60.79,-161.76,-0.94,19.46
+Vitim,48,RU,<built-in method now of type object at 0x00007FFE23B79860>,64,59.44,112.57,-4.21,3.24
+Curvelo,68,BR,<built-in method now of type object at 0x00007FFE23B79860>,90,-18.76,-44.43,69.5,5.14
+Thompson,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,85,55.74,-97.86,14.0,5.82
+Yellowknife,5,CA,<built-in method now of type object at 0x00007FFE23B79860>,75,62.45,-114.38,-18.41,10.29
+Kloulklubed,75,PW,<built-in method now of type object at 0x00007FFE23B79860>,78,7.04,134.26,82.4,11.41
+Geraldton,20,CA,<built-in method now of type object at 0x00007FFE23B79860>,75,49.72,-86.95,-16.61,3.91
+Gizo,0,IL,<built-in method now of type object at 0x00007FFE23B79860>,50,31.8,34.94,57.2,17.22
+Vostok,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,67,46.45,135.83,18.29,2.57
+Atambua,32,ID,<built-in method now of type object at 0x00007FFE23B79860>,89,-9.11,124.89,85.25,8.77
+Zhigansk,32,RU,<built-in method now of type object at 0x00007FFE23B79860>,49,66.77,123.37,-16.54,9.78
+Tura,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,64,25.52,90.21,70.58,4.74
+Angoram,80,PG,<built-in method now of type object at 0x00007FFE23B79860>,68,-4.06,144.07,87.23,2.91
+Quatre Cocos,40,MU,<built-in method now of type object at 0x00007FFE23B79860>,66,-20.21,57.76,84.2,11.41
+El Bagre,76,CO,<built-in method now of type object at 0x00007FFE23B79860>,80,7.6,-74.8,75.98,4.29
+Wausau,75,US,<built-in method now of type object at 0x00007FFE23B79860>,81,44.96,-89.63,24.98,6.93
+Beberibe,75,BR,<built-in method now of type object at 0x00007FFE23B79860>,88,-4.18,-38.13,78.8,3.36
+Maniitsoq,68,GL,<built-in method now of type object at 0x00007FFE23B79860>,100,65.42,-52.9,8.84,5.86
+Verkhneyarkeyevo,80,RU,<built-in method now of type object at 0x00007FFE23B79860>,90,55.45,54.3,27.65,11.34
+Hirara,75,JP,<built-in method now of type object at 0x00007FFE23B79860>,72,24.8,125.28,69.8,11.41
+Ambon,90,FR,<built-in method now of type object at 0x00007FFE23B79860>,93,47.55,-2.56,50.0,11.41
+Tokat,75,TR,<built-in method now of type object at 0x00007FFE23B79860>,92,40.33,36.55,24.8,16.11
+Kampot,20,KH,<built-in method now of type object at 0x00007FFE23B79860>,62,10.62,104.18,86.0,11.41
+Yangambi,68,CD,<built-in method now of type object at 0x00007FFE23B79860>,91,0.77,24.47,73.37,3.06
+Caconda,8,AO,<built-in method now of type object at 0x00007FFE23B79860>,59,-13.73,15.06,63.65,5.59
+Ballina,92,IE,<built-in method now of type object at 0x00007FFE23B79860>,94,54.11,-9.15,48.98,19.69
+Mkushi,92,ZM,<built-in method now of type object at 0x00007FFE23B79860>,100,-13.61,29.4,63.74,6.08
+Russell,75,AR,<built-in method now of type object at 0x00007FFE23B79860>,77,-33.01,-68.8,66.2,6.93
+Sol-Iletsk,88,RU,<built-in method now of type object at 0x00007FFE23B79860>,95,51.16,55.0,30.98,13.13
+Uusikaupunki,64,FI,<built-in method now of type object at 0x00007FFE23B79860>,100,60.8,21.41,24.8,3.36
+Lake Havasu City,90,US,<built-in method now of type object at 0x00007FFE23B79860>,54,34.47,-114.34,55.4,9.17
+Zhenhai,90,CN,<built-in method now of type object at 0x00007FFE23B79860>,99,29.95,121.71,44.6,8.95
+Igarka,76,RU,<built-in method now of type object at 0x00007FFE23B79860>,60,67.47,86.57,-20.5,26.28
+Hutchinson,90,US,<built-in method now of type object at 0x00007FFE23B79860>,95,38.06,-97.93,30.02,9.17
+Moree,24,AU,<built-in method now of type object at 0x00007FFE23B79860>,17,-29.46,149.84,100.4,12.75
+Bangangte,20,CM,<built-in method now of type object at 0x00007FFE23B79860>,83,5.14,10.52,60.32,3.13
+Banda Aceh,76,ID,<built-in method now of type object at 0x00007FFE23B79860>,71,5.56,95.32,84.26,6.93
+Bontang,12,ID,<built-in method now of type object at 0x00007FFE23B79860>,100,0.12,117.47,82.82,3.4
+Balingasay,0,PH,<built-in method now of type object at 0x00007FFE23B79860>,86,16.36,119.86,83.63,3.85
+Gaya,12,IN,<built-in method now of type object at 0x00007FFE23B79860>,40,24.8,85.01,69.8,6.93
+Tuni,75,BO,<built-in method now of type object at 0x00007FFE23B79860>,93,-16.67,-68.14,44.6,4.7
+Ucluelet,92,CA,<built-in method now of type object at 0x00007FFE23B79860>,93,48.94,-125.55,45.11,1.72
+Nishihara,20,JP,<built-in method now of type object at 0x00007FFE23B79860>,45,35.74,139.53,50.0,12.75
+Chingola,92,ZM,<built-in method now of type object at 0x00007FFE23B79860>,100,-12.55,27.86,63.56,6.42
+Shunyi,0,CN,<built-in method now of type object at 0x00007FFE23B79860>,13,40.13,116.65,44.6,8.95
+Port Augusta,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,22,-32.49,137.76,87.8,20.8
+Sisimiut,68,GL,<built-in method now of type object at 0x00007FFE23B79860>,100,66.94,-53.67,-12.94,1.01
+Petropavlovsk-Kamchatskiy,48,RU,<built-in method now of type object at 0x00007FFE23B79860>,50,53.05,158.65,28.4,4.47
+Coahuayana,32,MX,<built-in method now of type object at 0x00007FFE23B79860>,82,18.62,-100.35,58.07,2.57
+Maraa,48,BR,<built-in method now of type object at 0x00007FFE23B79860>,96,-1.83,-65.37,74.9,2.73
+Ayr,40,GB,<built-in method now of type object at 0x00007FFE23B79860>,93,55.46,-4.63,50.0,23.04
+Niltepec,56,MX,<built-in method now of type object at 0x00007FFE23B79860>,88,16.57,-94.62,66.08,9.44
+Saint-Ambroise,90,FR,<built-in method now of type object at 0x00007FFE23B79860>,93,47.25,-0.65,48.2,5.82
+Henties Bay,68,NA,<built-in method now of type object at 0x00007FFE23B79860>,100,-22.12,14.28,61.13,3.06
+Esperance,20,TT,<built-in method now of type object at 0x00007FFE23B79860>,83,10.24,-61.45,73.4,4.92
+Ossora,8,RU,<built-in method now of type object at 0x00007FFE23B79860>,79,59.24,163.07,-1.15,4.92
+Mporokoso,64,ZM,<built-in method now of type object at 0x00007FFE23B79860>,92,-9.37,30.12,68.15,4.74
+La Ronge,40,CA,<built-in method now of type object at 0x00007FFE23B79860>,85,55.1,-105.3,17.6,5.82
+Camacha,75,PT,<built-in method now of type object at 0x00007FFE23B79860>,67,33.08,-16.33,62.6,16.11
+Linxia,48,CN,<built-in method now of type object at 0x00007FFE23B79860>,30,35.6,103.21,31.88,3.51
+Dandong,0,CN,<built-in method now of type object at 0x00007FFE23B79860>,61,40.12,124.37,37.37,2.35
+Adrar,0,DZ,<built-in method now of type object at 0x00007FFE23B79860>,47,27.87,-0.29,33.8,10.29
+Maragogi,88,BR,<built-in method now of type object at 0x00007FFE23B79860>,100,-9.01,-35.22,73.91,3.24
+Marsh Harbour,64,BS,<built-in method now of type object at 0x00007FFE23B79860>,100,26.54,-77.06,74.18,12.46
+Elizabeth City,90,US,<built-in method now of type object at 0x00007FFE23B79860>,95,36.3,-76.22,43.7,8.32
+Tezu,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,40,27.93,96.16,63.65,1.9
+Douglas,75,US,<built-in method now of type object at 0x00007FFE23B79860>,76,31.34,-109.55,46.04,9.17
+Leo,0,BF,<built-in method now of type object at 0x00007FFE23B79860>,28,11.1,-2.1,65.0,10.4
+Kavaratti,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,100,10.57,72.64,81.92,10.85
+Fukue,20,JP,<built-in method now of type object at 0x00007FFE23B79860>,95,35.03,136.69,51.8,3.36
+Moron,88,VE,<built-in method now of type object at 0x00007FFE23B79860>,97,10.49,-68.2,67.34,3.29
+Fortuna,0,ES,<built-in method now of type object at 0x00007FFE23B79860>,52,38.18,-1.13,44.6,8.05
+Mareeba,90,AU,<built-in method now of type object at 0x00007FFE23B79860>,70,-16.99,145.42,84.2,10.29
+Turukhansk,76,RU,<built-in method now of type object at 0x00007FFE23B79860>,51,65.8,87.96,-17.35,21.74
+Sola,90,NO,<built-in method now of type object at 0x00007FFE23B79860>,100,58.89,5.65,44.6,6.93
+Srednekolymsk,76,RU,<built-in method now of type object at 0x00007FFE23B79860>,65,67.46,153.71,-22.12,4.14
+Tall Kayf,75,TR,<built-in method now of type object at 0x00007FFE23B79860>,65,37.08,41.07,41.0,16.11
+Caravelas,92,BR,<built-in method now of type object at 0x00007FFE23B79860>,100,-17.73,-39.27,79.85,9.44
+Dinguiraye,36,GN,<built-in method now of type object at 0x00007FFE23B79860>,67,11.29,-10.71,62.3,2.73
+Tarauaca,88,BR,<built-in method now of type object at 0x00007FFE23B79860>,98,-8.16,-70.77,69.95,2.51
+Sinnamary,88,GF,<built-in method now of type object at 0x00007FFE23B79860>,96,5.38,-52.96,78.23,10.89
+Dingle,20,PH,<built-in method now of type object at 0x00007FFE23B79860>,68,11.0,122.67,84.17,14.43
+Utrecht,75,NL,<built-in method now of type object at 0x00007FFE23B79860>,93,52.09,5.11,48.2,20.8
+Yumen,68,CN,<built-in method now of type object at 0x00007FFE23B79860>,91,40.29,97.04,15.05,8.61
+Zanjan,40,IR,<built-in method now of type object at 0x00007FFE23B79860>,44,36.67,48.48,39.2,11.41
+Qianguo,8,CN,<built-in method now of type object at 0x00007FFE23B79860>,48,45.12,124.86,20.27,8.55
+Cabo San Lucas,5,MX,<built-in method now of type object at 0x00007FFE23B79860>,72,22.89,-109.91,64.4,3.36
+Zemio,56,CF,<built-in method now of type object at 0x00007FFE23B79860>,86,5.02,25.13,71.93,2.51
+Niteroi,0,BR,<built-in method now of type object at 0x00007FFE23B79860>,100,-29.95,-51.16,73.4,6.93
+Plettenberg Bay,0,ZA,<built-in method now of type object at 0x00007FFE23B79860>,95,-34.05,23.37,67.34,4.07
+Mount Isa,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,13,-20.73,139.49,104.0,13.87
+Liverpool,75,GB,<built-in method now of type object at 0x00007FFE23B79860>,81,53.41,-2.98,48.2,26.4
+Rocha,36,UY,<built-in method now of type object at 0x00007FFE23B79860>,96,-34.48,-54.34,62.93,6.38
+Tarakan,40,ID,<built-in method now of type object at 0x00007FFE23B79860>,70,3.3,117.63,86.0,5.82
+Caraycaray,80,PH,<built-in method now of type object at 0x00007FFE23B79860>,90,11.56,124.42,82.28,14.47
+Torbay,75,CA,<built-in method now of type object at 0x00007FFE23B79860>,85,47.66,-52.73,23.0,12.75
+Nemuro,20,JP,<built-in method now of type object at 0x00007FFE23B79860>,45,43.32,145.57,26.6,1.12
+Salinopolis,100,BR,<built-in method now of type object at 0x00007FFE23B79860>,100,-0.61,-47.36,78.95,9.17
+Bellevue,0,US,<built-in method now of type object at 0x00007FFE23B79860>,100,47.61,-122.19,48.02,3.29
+Contamana,32,PE,<built-in method now of type object at 0x00007FFE23B79860>,98,-7.35,-75.01,72.02,2.13
+Bazarnyye Mataki,76,RU,<built-in method now of type object at 0x00007FFE23B79860>,86,54.9,49.93,10.28,11.97
+Port Arthur,20,US,<built-in method now of type object at 0x00007FFE23B79860>,66,29.9,-93.93,51.8,27.51
+Ahuimanu,1,US,<built-in method now of type object at 0x00007FFE23B79860>,86,21.44,-157.84,78.08,4.7
+Sabha,0,LY,<built-in method now of type object at 0x00007FFE23B79860>,79,27.03,14.43,21.71,2.84
+Bull Savanna,8,JM,<built-in method now of type object at 0x00007FFE23B79860>,91,17.89,-77.59,65.72,2.91
+Lavumisa,0,ZA,<built-in method now of type object at 0x00007FFE23B79860>,62,-27.31,31.88,76.43,3.8
+Seoul,1,KR,<built-in method now of type object at 0x00007FFE23B79860>,33,37.57,126.98,44.6,3.36
+Chegutu,8,ZW,<built-in method now of type object at 0x00007FFE23B79860>,85,-18.13,30.15,73.37,4.52
+Mayskiy,90,RU,<built-in method now of type object at 0x00007FFE23B79860>,86,43.63,44.06,33.8,3.24
+Mahendranagar,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,47,28.02,81.63,72.38,2.73
+Filingue,0,NE,<built-in method now of type object at 0x00007FFE23B79860>,57,14.35,3.32,57.44,8.43
+Balkanabat,0,TM,<built-in method now of type object at 0x00007FFE23B79860>,74,39.51,54.36,37.1,1.57
+Margate,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,46,-43.03,147.26,69.8,18.34
+Volokolamsk,80,RU,<built-in method now of type object at 0x00007FFE23B79860>,90,56.03,35.95,21.8,8.28
+Luancheng,0,CN,<built-in method now of type object at 0x00007FFE23B79860>,23,37.88,114.65,33.8,4.47
+Voyvozh,88,RU,<built-in method now of type object at 0x00007FFE23B79860>,86,62.89,54.96,13.07,10.56
+Yulara,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,8,-25.24,130.99,109.4,14.99
+Nouakchott,0,MR,<built-in method now of type object at 0x00007FFE23B79860>,12,18.08,-15.98,55.4,6.93
+Mayumba,92,GA,<built-in method now of type object at 0x00007FFE23B79860>,100,-3.44,10.65,74.9,7.05
+Faanui,80,PF,<built-in method now of type object at 0x00007FFE23B79860>,100,-16.48,-151.75,83.54,20.62
+Nizhnevartovsk,90,RU,<built-in method now of type object at 0x00007FFE23B79860>,84,60.93,76.58,5.0,15.66
+Kamenka,80,RU,<built-in method now of type object at 0x00007FFE23B79860>,83,53.19,44.05,10.73,11.9
+Tanout,0,NE,<built-in method now of type object at 0x00007FFE23B79860>,35,14.97,8.88,56.72,13.8
+Alofi,88,NU,<built-in method now of type object at 0x00007FFE23B79860>,78,-19.06,-169.92,82.4,13.87
+Emerald,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,30,-23.53,148.16,95.0,16.11
+Girua,0,BR,<built-in method now of type object at 0x00007FFE23B79860>,96,-28.03,-54.35,69.05,4.92
+Collie,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,31,-33.36,116.15,87.14,15.32
+Noumea,90,NC,<built-in method now of type object at 0x00007FFE23B79860>,78,-22.28,166.46,80.6,23.04
+Kaitangata,92,NZ,<built-in method now of type object at 0x00007FFE23B79860>,100,-46.28,169.85,54.56,4.59
+Tilichiki,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,47,60.47,166.1,-16.36,2.91
+La Dolorita,80,VE,<built-in method now of type object at 0x00007FFE23B79860>,95,10.49,-66.79,68.6,2.35
+Conceicao do Mato Dentro,92,BR,<built-in method now of type object at 0x00007FFE23B79860>,92,-19.04,-43.42,68.69,6.15
+Vadgaon,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,51,20.94,74.87,78.68,4.52
+Byron Bay,40,AU,<built-in method now of type object at 0x00007FFE23B79860>,58,-28.65,153.62,87.8,18.34
+Ugoofaaru,8,MV,<built-in method now of type object at 0x00007FFE23B79860>,100,5.67,73.0,81.92,11.97
+Petropavl,0,KZ,<built-in method now of type object at 0x00007FFE23B79860>,72,54.87,69.13,17.6,15.66
+Nuuk,88,GL,<built-in method now of type object at 0x00007FFE23B79860>,92,64.17,-51.74,24.8,10.29
+Eureka,1,US,<built-in method now of type object at 0x00007FFE23B79860>,100,40.8,-124.16,48.92,5.82
+Pedernales,100,EC,<built-in method now of type object at 0x00007FFE23B79860>,95,0.07,-80.05,71.75,2.06
+Tubalan,76,PH,<built-in method now of type object at 0x00007FFE23B79860>,88,6.5,125.57,81.47,4.92
+Qeshm,8,IR,<built-in method now of type object at 0x00007FFE23B79860>,26,26.96,56.27,69.8,6.93
+Chirongui,90,YT,<built-in method now of type object at 0x00007FFE23B79860>,83,-12.93,45.15,82.4,8.05
+Namtsy,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,64,62.72,129.66,-43.61,4.47
+Matagami,8,NG,<built-in method now of type object at 0x00007FFE23B79860>,36,9.67,8.4,62.21,7.87
+Kibara,40,TZ,<built-in method now of type object at 0x00007FFE23B79860>,83,-2.15,33.45,69.8,5.82
+Nome,1,US,<built-in method now of type object at 0x00007FFE23B79860>,71,30.04,-94.42,48.92,6.93
+Butterworth,75,MY,<built-in method now of type object at 0x00007FFE23B79860>,59,5.4,100.37,89.6,4.7
+Santa Cruz del Norte,20,CU,<built-in method now of type object at 0x00007FFE23B79860>,93,23.15,-81.92,68.0,3.36
+Aqtobe,90,KZ,<built-in method now of type object at 0x00007FFE23B79860>,92,50.28,57.21,28.4,20.13
+Nikolskoye,20,RU,<built-in method now of type object at 0x00007FFE23B79860>,85,59.7,30.79,23.0,8.95
+Itoman,40,JP,<built-in method now of type object at 0x00007FFE23B79860>,46,26.12,127.67,71.24,13.87
+Kurdzhinovo,36,RU,<built-in method now of type object at 0x00007FFE23B79860>,88,43.99,40.96,23.78,1.79
+Celestun,0,MX,<built-in method now of type object at 0x00007FFE23B79860>,100,20.87,-90.4,73.46,15.82
+Christchurch,100,NZ,<built-in method now of type object at 0x00007FFE23B79860>,49,-43.53,172.64,69.8,6.93
+Sungairaya,36,ID,<built-in method now of type object at 0x00007FFE23B79860>,92,0.7,108.9,82.73,4.03
+Magadan,36,RU,<built-in method now of type object at 0x00007FFE23B79860>,100,59.56,150.8,10.55,5.82
+Makakilo City,90,US,<built-in method now of type object at 0x00007FFE23B79860>,73,21.35,-158.09,78.08,4.7
+Grand Forks,90,US,<built-in method now of type object at 0x00007FFE23B79860>,96,47.91,-97.06,24.98,10.29
+Tautira,90,PF,<built-in method now of type object at 0x00007FFE23B79860>,74,-17.73,-149.15,82.4,14.99
+Reforma,0,MX,<built-in method now of type object at 0x00007FFE23B79860>,73,24.02,-104.65,40.79,6.26
+Powell River,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,100,49.84,-124.52,42.8,3.36
+Longhua,80,CN,<built-in method now of type object at 0x00007FFE23B79860>,100,29.21,106.21,47.27,3.24
+Erenhot,0,CN,<built-in method now of type object at 0x00007FFE23B79860>,42,43.65,111.97,26.39,8.66
+Rio Cuarto,90,AR,<built-in method now of type object at 0x00007FFE23B79860>,88,-33.13,-64.35,62.6,17.22
+Demyansk,80,RU,<built-in method now of type object at 0x00007FFE23B79860>,91,57.64,32.46,21.71,7.87
+Coquimbo,0,CL,<built-in method now of type object at 0x00007FFE23B79860>,87,-29.95,-71.34,59.0,4.7
+Nisia Floresta,40,BR,<built-in method now of type object at 0x00007FFE23B79860>,78,-6.09,-35.21,78.8,6.93
+Aguimes,0,ES,<built-in method now of type object at 0x00007FFE23B79860>,55,27.91,-15.45,60.8,4.7
+Tyazhinskiy,12,RU,<built-in method now of type object at 0x00007FFE23B79860>,66,56.11,88.52,-4.03,3.13
+Sumbe,44,AO,<built-in method now of type object at 0x00007FFE23B79860>,100,-11.2,13.84,76.7,1.61
+Deoria,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,87,26.5,83.79,67.97,4.36
+Wanning,75,AT,<built-in method now of type object at 0x00007FFE23B79860>,93,48.64,13.53,35.6,8.05
+El Tocuyo,0,VE,<built-in method now of type object at 0x00007FFE23B79860>,97,9.79,-69.8,60.77,2.51
+Burns Lake,80,CA,<built-in method now of type object at 0x00007FFE23B79860>,97,54.23,-125.76,28.37,1.79
+Buzmeyin,20,TM,<built-in method now of type object at 0x00007FFE23B79860>,68,38.05,58.21,42.8,2.24
+Avera,90,US,<built-in method now of type object at 0x00007FFE23B79860>,87,33.19,-82.53,53.6,5.82
+Ginir,0,ET,<built-in method now of type object at 0x00007FFE23B79860>,20,7.14,40.71,66.17,5.26
+Severo-Kurilsk,32,RU,<built-in method now of type object at 0x00007FFE23B79860>,97,50.68,156.12,32.15,15.59
+Portland,20,US,<built-in method now of type object at 0x00007FFE23B79860>,55,45.52,-122.67,46.94,18.34
+Orleans,44,BR,<built-in method now of type object at 0x00007FFE23B79860>,96,-28.36,-49.29,67.43,3.24
+Edea,40,CM,<built-in method now of type object at 0x00007FFE23B79860>,100,3.8,10.13,77.0,7.31
+Rawson,0,AR,<built-in method now of type object at 0x00007FFE23B79860>,67,-43.3,-65.11,57.35,10.67
+Lesozavodsk,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,49,45.47,133.42,23.87,4.59
+Honiara,88,SB,<built-in method now of type object at 0x00007FFE23B79860>,91,-9.43,159.96,79.76,3.13
+Baghdad,75,IQ,<built-in method now of type object at 0x00007FFE23B79860>,57,33.3,44.38,50.0,12.75
+Abu Kamal,0,SY,<built-in method now of type object at 0x00007FFE23B79860>,79,34.45,40.92,38.72,9.89
+Hovd,75,NO,<built-in method now of type object at 0x00007FFE23B79860>,94,63.83,10.7,37.4,12.75
+Ankang,80,CN,<built-in method now of type object at 0x00007FFE23B79860>,61,32.73,108.99,42.68,1.79
+Ancud,0,CL,<built-in method now of type object at 0x00007FFE23B79860>,100,-41.87,-73.83,42.8,6.93
+Mazagao,0,BR,<built-in method now of type object at 0x00007FFE23B79860>,100,-0.12,-51.29,75.2,1.12
+Narasimharajapura,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,46,13.61,75.51,82.1,7.16
+Katherine,40,AU,<built-in method now of type object at 0x00007FFE23B79860>,49,-14.47,132.26,93.2,5.82
+Walvis Bay,90,NA,<built-in method now of type object at 0x00007FFE23B79860>,88,-22.95,14.51,62.6,5.82
+Hobyo,80,SO,<built-in method now of type object at 0x00007FFE23B79860>,75,5.35,48.53,77.78,19.91
+Talnakh,76,RU,<built-in method now of type object at 0x00007FFE23B79860>,52,69.49,88.39,-18.25,19.84
+Bolobo,20,CD,<built-in method now of type object at 0x00007FFE23B79860>,97,-2.17,16.23,74.18,5.37
+Sao Miguel do Araguaia,56,BR,<built-in method now of type object at 0x00007FFE23B79860>,95,-13.28,-50.16,71.57,3.13
+Mazara del Vallo,40,IT,<built-in method now of type object at 0x00007FFE23B79860>,76,37.65,12.59,50.0,9.17
+Port-Cartier,5,CA,<built-in method now of type object at 0x00007FFE23B79860>,65,50.03,-66.88,8.6,5.82
+Ozernovskiy,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,83,51.5,156.52,27.02,7.05
+Kudahuvadhoo,36,MV,<built-in method now of type object at 0x00007FFE23B79860>,100,2.67,72.89,82.46,12.19
+Bereda,0,ES,<built-in method now of type object at 0x00007FFE23B79860>,75,43.27,-7.54,46.4,2.24
+Gemena,20,CD,<built-in method now of type object at 0x00007FFE23B79860>,92,3.25,19.78,74.18,3.51
+San Antonio,0,CL,<built-in method now of type object at 0x00007FFE23B79860>,87,-33.58,-71.61,57.2,5.82
+Yeppoon,12,AU,<built-in method now of type object at 0x00007FFE23B79860>,52,-23.13,150.74,87.8,9.17
+Puri,20,ID,<built-in method now of type object at 0x00007FFE23B79860>,66,-7.54,112.45,89.6,11.41
+Awjilah,44,LY,<built-in method now of type object at 0x00007FFE23B79860>,77,29.14,21.3,49.16,17.9
+Faya,0,SA,<built-in method now of type object at 0x00007FFE23B79860>,58,18.39,42.45,57.2,6.93
+Riberalta,88,BO,<built-in method now of type object at 0x00007FFE23B79860>,96,-11.0,-66.08,73.37,2.24
+Nsanje,48,MZ,<built-in method now of type object at 0x00007FFE23B79860>,80,-16.92,35.26,82.1,3.8
+Chapais,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,77,49.78,-74.86,-2.21,5.82
+San Juan de los Morros,8,VE,<built-in method now of type object at 0x00007FFE23B79860>,96,9.91,-67.35,59.78,2.28
+Karratha,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,14,-20.74,116.85,113.96,8.28
+Bonga,0,ET,<built-in method now of type object at 0x00007FFE23B79860>,46,7.26,36.25,64.91,2.57
+Natal,40,BR,<built-in method now of type object at 0x00007FFE23B79860>,78,-5.81,-35.21,78.8,6.93
+Muros,0,ES,<built-in method now of type object at 0x00007FFE23B79860>,86,42.77,-9.06,41.0,4.7
+Nowe Miasto Lubawskie,88,PL,<built-in method now of type object at 0x00007FFE23B79860>,95,53.43,19.59,34.22,10.56
+Anadyr,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,68,64.73,177.51,-14.81,20.13
+Vila Velha,75,BR,<built-in method now of type object at 0x00007FFE23B79860>,88,-3.71,-38.6,78.8,3.36
+Perivolion,0,GR,<built-in method now of type object at 0x00007FFE23B79860>,100,39.42,20.01,35.6,2.24
+Batagay-Alyta,24,RU,<built-in method now of type object at 0x00007FFE23B79860>,66,67.8,130.41,-36.52,2.62
+Naantali,56,FI,<built-in method now of type object at 0x00007FFE23B79860>,100,60.45,22.03,24.8,3.36
+Ilhabela,32,BR,<built-in method now of type object at 0x00007FFE23B79860>,100,-23.78,-45.36,78.59,11.34
+Kieta,48,PG,<built-in method now of type object at 0x00007FFE23B79860>,99,-6.22,155.63,80.93,3.58
+Vilsbiburg,75,DE,<built-in method now of type object at 0x00007FFE23B79860>,93,48.45,12.36,35.6,13.87
+Nelson Bay,40,AU,<built-in method now of type object at 0x00007FFE23B79860>,69,-32.72,152.14,78.8,18.34
+San Pedro,8,AR,<built-in method now of type object at 0x00007FFE23B79860>,81,-33.68,-59.66,70.58,10.63
+Hualmay,20,PE,<built-in method now of type object at 0x00007FFE23B79860>,94,-11.1,-77.61,62.03,1.9
+Mariakani,92,KE,<built-in method now of type object at 0x00007FFE23B79860>,83,-3.87,39.47,78.77,7.76
+Vila,0,IT,<built-in method now of type object at 0x00007FFE23B79860>,79,45.18,8.4,30.2,1.12
+Riyadh,0,SA,<built-in method now of type object at 0x00007FFE23B79860>,28,24.63,46.72,55.4,2.24
+Brae,80,GB,<built-in method now of type object at 0x00007FFE23B79860>,87,60.4,-1.35,48.2,24.16
+Molchanovo,36,RU,<built-in method now of type object at 0x00007FFE23B79860>,69,57.58,83.76,-9.34,12.8
+Palmer,75,US,<built-in method now of type object at 0x00007FFE23B79860>,87,61.6,-149.11,10.94,3.36
+Boguchany,32,RU,<built-in method now of type object at 0x00007FFE23B79860>,48,58.38,97.46,-8.26,6.82
+Zhezkazgan,90,KZ,<built-in method now of type object at 0x00007FFE23B79860>,84,47.8,67.71,6.8,8.95
+Argir,92,FO,<built-in method now of type object at 0x00007FFE23B79860>,93,62.0,-6.77,39.2,11.41
+Tias,0,ES,<built-in method now of type object at 0x00007FFE23B79860>,59,28.96,-13.65,66.2,12.75
+Dakoro,0,NE,<built-in method now of type object at 0x00007FFE23B79860>,47,14.51,6.76,57.26,11.07
+Zary,92,PL,<built-in method now of type object at 0x00007FFE23B79860>,96,51.64,15.14,40.07,19.13
+Kaeo,64,NZ,<built-in method now of type object at 0x00007FFE23B79860>,50,-35.1,173.78,75.17,7.94
+Beringovskiy,32,RU,<built-in method now of type object at 0x00007FFE23B79860>,100,63.05,179.32,-9.07,27.11
+Vao,56,EE,<built-in method now of type object at 0x00007FFE23B79860>,83,59.1,26.19,14.24,4.14
+Tual,88,ID,<built-in method now of type object at 0x00007FFE23B79860>,100,-5.67,132.75,83.72,15.7
+Itarema,76,BR,<built-in method now of type object at 0x00007FFE23B79860>,97,-2.92,-39.92,72.29,2.39
+Nola,12,CF,<built-in method now of type object at 0x00007FFE23B79860>,94,3.52,16.05,72.29,2.57
+Zharkovskiy,76,RU,<built-in method now of type object at 0x00007FFE23B79860>,90,55.85,32.27,21.8,5.03
+Neverkino,64,RU,<built-in method now of type object at 0x00007FFE23B79860>,85,52.79,46.74,11.63,10.07
+Edgewater,90,US,<built-in method now of type object at 0x00007FFE23B79860>,98,28.99,-80.9,62.06,8.05
+Mbala,80,ZM,<built-in method now of type object at 0x00007FFE23B79860>,85,-8.85,31.37,67.97,4.85
+Machaneng,0,BW,<built-in method now of type object at 0x00007FFE23B79860>,71,-23.19,27.49,78.23,8.28
+Baringo,0,KE,<built-in method now of type object at 0x00007FFE23B79860>,70,0.47,35.97,66.35,2.8
+Kandalaksha,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,86,67.15,32.41,19.28,5.53
+Zima,44,RU,<built-in method now of type object at 0x00007FFE23B79860>,69,53.93,102.05,1.1,8.88
+College,75,US,<built-in method now of type object at 0x00007FFE23B79860>,72,64.86,-147.8,-11.93,4.14
+Taoudenni,0,ML,<built-in method now of type object at 0x00007FFE23B79860>,38,22.68,-3.98,41.6,12.46
+Saint Anthony,20,US,<built-in method now of type object at 0x00007FFE23B79860>,79,43.97,-111.68,8.06,4.7
+Hurricane,1,US,<built-in method now of type object at 0x00007FFE23B79860>,55,37.18,-113.29,39.2,16.11
+Sangar,36,RU,<built-in method now of type object at 0x00007FFE23B79860>,35,63.92,127.47,-23.92,5.86
+Sobolevo,80,RU,<built-in method now of type object at 0x00007FFE23B79860>,95,54.43,31.9,25.4,7.76
+Batagay,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,0,67.65,134.64,-55.78,2.73
+Winslow,40,GB,<built-in method now of type object at 0x00007FFE23B79860>,81,51.94,-0.88,50.0,19.46
+Amarante do Maranhao,88,BR,<built-in method now of type object at 0x00007FFE23B79860>,98,-5.57,-46.74,70.31,5.59
+Dalvik,80,SE,<built-in method now of type object at 0x00007FFE23B79860>,92,57.79,14.13,28.4,8.05
+Kaseda,75,JP,<built-in method now of type object at 0x00007FFE23B79860>,54,31.42,130.32,53.6,9.17
+Beloha,64,MG,<built-in method now of type object at 0x00007FFE23B79860>,97,-25.17,45.06,82.1,4.63
+Ust-Kan,32,RU,<built-in method now of type object at 0x00007FFE23B79860>,83,50.93,84.77,4.43,2.62
+Pasewalk,75,DE,<built-in method now of type object at 0x00007FFE23B79860>,93,53.51,13.99,41.0,12.75
+Okaihau,64,NZ,<built-in method now of type object at 0x00007FFE23B79860>,50,-35.32,173.77,75.17,7.94
+Pakdasht,75,IR,<built-in method now of type object at 0x00007FFE23B79860>,47,35.48,51.68,37.4,1.79
+Youkounkoun,32,GN,<built-in method now of type object at 0x00007FFE23B79860>,51,12.53,-13.12,62.84,6.08
+Oranjemund,92,ZA,<built-in method now of type object at 0x00007FFE23B79860>,92,-28.55,16.43,65.18,7.43
+Lumby,90,CA,<built-in method now of type object at 0x00007FFE23B79860>,90,50.25,-118.97,33.8,2.24
+Abu Dhabi,0,AE,<built-in method now of type object at 0x00007FFE23B79860>,82,24.47,54.37,66.2,3.36
+Mykhaylivka,75,UA,<built-in method now of type object at 0x00007FFE23B79860>,92,47.27,35.22,24.8,4.47
+Cukai,75,MY,<built-in method now of type object at 0x00007FFE23B79860>,79,4.25,103.42,87.8,9.17
+Saint-Leu,0,RE,<built-in method now of type object at 0x00007FFE23B79860>,58,-21.15,55.28,87.8,9.17
+Oranzherei,48,RU,<built-in method now of type object at 0x00007FFE23B79860>,92,45.85,47.57,30.2,4.47
+Oda,40,JP,<built-in method now of type object at 0x00007FFE23B79860>,50,35.19,132.5,51.8,11.41
+Rolla,90,US,<built-in method now of type object at 0x00007FFE23B79860>,97,37.95,-91.77,32.0,5.82
+Port Hedland,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,53,-20.31,118.58,98.6,18.34
+Iqaluit,5,CA,<built-in method now of type object at 0x00007FFE23B79860>,61,63.75,-68.52,-20.21,14.99
+Huicheng,90,CN,<built-in method now of type object at 0x00007FFE23B79860>,72,23.03,116.29,68.0,6.71
+Kiunga,64,PG,<built-in method now of type object at 0x00007FFE23B79860>,77,-6.12,141.3,84.08,2.62
+Santa Cruz,1,US,<built-in method now of type object at 0x00007FFE23B79860>,87,36.97,-122.03,55.4,2.01
+Cuamba,92,MZ,<built-in method now of type object at 0x00007FFE23B79860>,100,-14.8,36.54,69.14,6.82
+Nicolas Bravo,0,MX,<built-in method now of type object at 0x00007FFE23B79860>,77,24.39,-104.74,30.53,3.62
+Victoria,75,BN,<built-in method now of type object at 0x00007FFE23B79860>,66,5.28,115.24,87.8,6.93
+Bayevo,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,76,53.27,80.77,0.2,8.84
+Hami,76,CN,<built-in method now of type object at 0x00007FFE23B79860>,76,42.84,93.51,19.64,4.25
+Llangefni,44,GB,<built-in method now of type object at 0x00007FFE23B79860>,87,53.26,-4.31,50.0,10.29
+Carcassonne,90,FR,<built-in method now of type object at 0x00007FFE23B79860>,65,43.21,2.35,53.6,23.04
+Khorixas,0,NA,<built-in method now of type object at 0x00007FFE23B79860>,59,-20.37,14.96,53.12,1.79
+Kuntaur,8,GM,<built-in method now of type object at 0x00007FFE23B79860>,55,13.67,-14.89,62.12,5.41
+Victor Harbor,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,13,-35.55,138.62,91.4,13.87
+Joaima,8,BR,<built-in method now of type object at 0x00007FFE23B79860>,96,-16.65,-41.03,61.13,3.02
+Kununurra,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,52,-15.77,128.74,93.2,4.7
+Gusev,68,RU,<built-in method now of type object at 0x00007FFE23B79860>,98,54.59,22.2,32.33,7.76
+Beaufort,75,MY,<built-in method now of type object at 0x00007FFE23B79860>,66,5.36,115.76,87.8,6.93
+Najran,0,SA,<built-in method now of type object at 0x00007FFE23B79860>,46,17.54,44.22,53.6,4.7
+Antalaha,32,MG,<built-in method now of type object at 0x00007FFE23B79860>,95,-14.9,50.28,81.83,4.52
+Gravdal,92,NO,<built-in method now of type object at 0x00007FFE23B79860>,93,59.79,5.78,44.6,17.22
+Blajani,24,RO,<built-in method now of type object at 0x00007FFE23B79860>,51,45.32,26.82,4.52,2.24
+Kondinskoye,88,RU,<built-in method now of type object at 0x00007FFE23B79860>,85,59.65,67.41,18.2,11.18
+Iracoubo,80,GF,<built-in method now of type object at 0x00007FFE23B79860>,85,5.48,-53.21,75.26,4.36
+Togur,36,RU,<built-in method now of type object at 0x00007FFE23B79860>,66,58.36,82.83,-8.44,12.19
+Borisoglebskiy,90,RU,<built-in method now of type object at 0x00007FFE23B79860>,85,57.26,39.15,21.2,8.95
+Port Keats,48,AU,<built-in method now of type object at 0x00007FFE23B79860>,100,-14.25,129.55,80.75,5.82
+Kidal,76,ML,<built-in method now of type object at 0x00007FFE23B79860>,18,18.44,1.41,52.67,10.45
+Port Lincoln,0,AU,<built-in method now of type object at 0x00007FFE23B79860>,62,-34.72,135.86,75.98,13.58
+Ketchikan,90,US,<built-in method now of type object at 0x00007FFE23B79860>,95,55.34,-131.65,50.0,5.82
+Rathenow,75,DE,<built-in method now of type object at 0x00007FFE23B79860>,93,52.61,12.34,41.0,12.75
+Doctor Juan Leon Mallorquin,0,PY,<built-in method now of type object at 0x00007FFE23B79860>,100,-25.4,-55.27,71.6,3.36
+Husavik,92,CA,<built-in method now of type object at 0x00007FFE23B79860>,92,50.56,-96.99,18.83,12.68
+Sardarshahr,0,IN,<built-in method now of type object at 0x00007FFE23B79860>,69,28.43,74.48,61.49,8.16
+Cayenne,92,GF,<built-in method now of type object at 0x00007FFE23B79860>,94,4.94,-52.33,71.6,8.28
+Kingman,90,US,<built-in method now of type object at 0x00007FFE23B79860>,50,35.19,-114.05,55.4,4.7
+Sandakan,75,MY,<built-in method now of type object at 0x00007FFE23B79860>,74,5.84,118.12,86.0,8.05
+Kaabong,0,UG,<built-in method now of type object at 0x00007FFE23B79860>,30,3.51,34.14,72.56,8.05
+Bumba,32,CD,<built-in method now of type object at 0x00007FFE23B79860>,91,2.18,22.47,75.8,4.14
+Caruray,40,PH,<built-in method now of type object at 0x00007FFE23B79860>,70,10.31,119.01,86.0,9.17
+Namalenga,44,TZ,<built-in method now of type object at 0x00007FFE23B79860>,88,-10.95,39.1,79.49,6.38
+Okhotsk,0,RU,<built-in method now of type object at 0x00007FFE23B79860>,100,59.36,143.24,-4.39,8.95
+Bubaque,12,GW,<built-in method now of type object at 0x00007FFE23B79860>,100,11.28,-15.83,77.24,10.45
+Latung,32,ID,<built-in method now of type object at 0x00007FFE23B79860>,99,-8.45,120.42,77.6,3.8
+Puro,68,PH,<built-in method now of type object at 0x00007FFE23B79860>,84,13.13,123.76,79.58,11.56
+Chor,48,PK,<built-in method now of type object at 0x00007FFE23B79860>,91,25.52,69.77,61.4,10.96
+Blagoyevo,80,RU,<built-in method now of type object at 0x00007FFE23B79860>,74,63.37,47.92,16.49,7.76
+Waitati,92,NZ,<built-in method now of type object at 0x00007FFE23B79860>,100,-45.75,170.57,52.49,7.16
+San Ramon,56,NI,<built-in method now of type object at 0x00007FFE23B79860>,91,12.92,-85.84,63.83,2.35
+Rio Gallegos,0,AR,<built-in method now of type object at 0x00007FFE23B79860>,86,-51.62,-69.22,48.2,20.8
+Mitsamiouli,20,KM,<built-in method now of type object at 0x00007FFE23B79860>,78,-11.38,43.28,82.4,3.36
+Benghazi,24,LY,<built-in method now of type object at 0x00007FFE23B79860>,100,32.12,20.07,59.87,31.21
+Kalmunai,92,LK,<built-in method now of type object at 0x00007FFE23B79860>,94,7.42,81.82,78.23,8.55
+Sukhobezvodnoye,80,RU,<built-in method now of type object at 0x00007FFE23B79860>,78,57.05,44.89,12.26,6.76
+Rorvik,64,NO,<built-in method now of type object at 0x00007FFE23B79860>,100,64.86,11.24,33.41,15.93
+La Libertad,75,PE,<built-in method now of type object at 0x00007FFE23B79860>,81,-16.38,-71.56,53.6,2.39
+Ewa Beach,90,US,<built-in method now of type object at 0x00007FFE23B79860>,73,21.32,-158.01,78.08,4.7
+Statesville,90,US,<built-in method now of type object at 0x00007FFE23B79860>,95,35.78,-80.89,33.98,4.7
+Mokshan,68,RU,<built-in method now of type object at 0x00007FFE23B79860>,84,53.44,44.61,10.37,11.45
+Aksarka,68,RU,<built-in method now of type object at 0x00007FFE23B79860>,81,66.56,67.8,3.53,15.99
+Wladyslawowo,75,PL,<built-in method now of type object at 0x00007FFE23B79860>,100,54.79,18.4,35.6,10.29
